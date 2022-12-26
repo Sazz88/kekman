@@ -1,0 +1,857 @@
+#EXTM3U
+
+#EXTINF:-1 ch-number="1" tvg-id="AdoboTV" tvg-name="AdoboTV" tvg-logo="https://i.imgur.com/XlspSoN.png" group-title="Local TV",[AdoboTV][—EX] AdoboTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ptdmJhbWJpY28vYWRvYm9UVl9zcGxhc2gvbWFzdGVyL3dlbGNvbWUubTN1
+
+#EXTINF:-1 ch-number="2" tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/A2Z_Channel_11.png/512px-A2Z_Channel_11.png" group-title="Local TV",[AdoboTV][✓BZ] A2Z
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD0zNTM&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="3" tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-logo="https://i.imgur.com/3yzbJE5.png" group-title="Local TV",[AdoboTV][✓BZ] Jeepney TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00NDA&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="4" tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://i.imgur.com/7btCRNw.png" group-title="Local TV",[AdoboTV][✓SM] Kapamilya Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9OTg&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="5" tvg-id="TheFilipinoChannelAsia.us" tvg-name="TFC" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Local TV",[AdoboTV][—EX] TFC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly90ZmNndWFtMi1hYnNjYm4tb25vLmFtYWdpLnR2L2luZGV4XzYubTN1OA
+
+#EXTINF:-1 ch-number="6" tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://i.imgur.com/cBqnYNM.png" group-title="Local TV",[AdoboTV][—EX] PTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9xbi0xMDEzNS1zcGMtcWItMS0xLmRhaWx5bW90aW9uLWxpdmUtbXIucXdpbHRlZC1jZHMuY3Fsb3VkLmNvbS9zZWModmIwaWtEM3JtWkEyUnZFTjJVc2Z3QWQ0bkxxSHNvLWZFYndHemlaUHRzcmpfNTc0Q2JoXzdzM25lbldPR1MxNCk
+
+#EXTINF:-1 ch-number="7" tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://i.imgur.com/hM5MFrz.png" group-title="Local TV",[AdoboTV][✓YS] TV5
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE1NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="8" tvg-id="GMALifeTV.ph" tvg-name="GMA Life TV" tvg-logo="https://i.imgur.com/tmUW88u.png" group-title="Local TV",[AdoboTV][✓YS] GMA Life TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE0MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="9" tvg-id="GMAPinoyTV.ph" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/NhQsULA.png" group-title="Local TV",[AdoboTV][✓YS] GMA Pinoy TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk2MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="10" tvg-id="GMA.7.ph" tvg-name="GMA 7" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Local TV",[AdoboTV][✓SM] GMA 7
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTAx&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="11" tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Local TV",[AdoboTV][✓SM] GTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTAz&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="12" tvg-id="Buko.ph" tvg-name="BUKO" tvg-logo="https://i.imgur.com/rqjaa88.png" group-title="Local TV",[AdoboTV][✓YS] BUKO
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkxMA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="13" tvg-id="IBC.13.ph" tvg-name="IBC 13" tvg-logo="https://i.imgur.com/LaqSPsM.png" group-title="Local TV",[AdoboTV][✓SM] IBC 13
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9OTk&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="14" tvg-id="DepEdTV.ph" tvg-name="DepEd TV" tvg-logo="https://i.imgur.com/G4LwYlk.png" group-title="Local TV",[AdoboTV][✓YS] DepEd TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg5Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="15" tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/s8rpeKu.png" group-title="Local TV",[AdoboTV][—EX] INC TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2d1bnNsaW5nZXJ0di5vcmc6ODA4MC9saXZlL2pvaG50aGVtYW4vdm9vZG9vMTU5Lzg2OTg5LnRz
+
+#EXTINF:-1 ch-number="16" tvg-id="KnowledgeChannel.ph" tvg-name="Knowledge Channel" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="Local TV",[AdoboTV][✓YS] Knowledge Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE0Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="17" tvg-id="Net25.ph" tvg-name="Net 25" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV",[AdoboTV][✓YS] Net 25
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk4MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="18" tvg-id="OnePH.ph" tvg-name="One PH" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Local TV",[AdoboTV][✓YS] One PH
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE0OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="19" tvg-id="SariSariChannel.ph" tvg-name="Sari Sari Channel" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Local TV",[AdoboTV][✓YS] Sari Sari Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk5Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="20" tvg-id="PIEChannel.ph" tvg-name="PIE Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV",[AdoboTV][✓YT] PIE Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vaWFtcGllb2ZmaWNpYWwvbWFzdGVyLm0zdTg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="21" tvg-id="PinoyXtremeChannel.ph" tvg-name="Pinoy Xtreme" tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="Local TV",[AdoboTV][✓SM] Pinoy Xtreme
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTQy&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="22" tvg-id="RJDigiTV.ph" tvg-name="RJ DigiTV" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/71/RJTV_29_Alternative_Logo_2018.png/revision/latest?cb=20190926013443" group-title="Local TV",[AdoboTV][✓YS] RJ DigiTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk3Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="23" tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://i.imgur.com/kTLLxuV.png" group-title="Local TV",[AdoboTV][—EX] SMNI
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2d1bnNsaW5nZXJ0di5vcmc6ODA4MC9saXZlL2pvaG50aGVtYW4vdm9vZG9vMTU5Lzg2OTk4LnRz
+
+#EXTINF:-1 ch-number="24" tvg-id="TAPTV" tvg-name="TAP TV" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Local TV",[AdoboTV][✓YS] TAP TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg2NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="25" tvg-id="UNTV.ph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/6xOjF7u.png" group-title="Local TV",[AdoboTV][✓SM] UNTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTgy&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="26" tvg-id="CelestialMoviesPinoy.hk" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="Local Movies",[AdoboTV][✓YS] Celestial Movies Pinoy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzEzNA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="27" tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Movies",[AdoboTV][✓YS] Cinema One
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzEzNQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="28" tvg-id="CINEMO!.ph" tvg-name="Cine Mo!" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Movies",[AdoboTV][✓YS] Cine Mo!
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzEzNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="29" tvg-id="CineMundo.ph" tvg-name="CineMundo Pinoy" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/960x540/cinemundopinoy_app_livechannels_1920x1080.jpg" group-title="Local Movies",[AdoboTV][—EX] CineMundo Pinoy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zdHJlYW1pbmctbHVuYW90dC5ha2FtYWl6ZWQubmV0L2NpbmVtdW5kb3Bpbm95X290dGVyYV80MjIyNDMyNzgxL3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="30" tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="Local Movies",[AdoboTV][✓SM] PBO
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTA1&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="31" tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://i.imgur.com/LrU01cL.png" group-title="Local Movies",[AdoboTV][✓SM] SolarFlix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTE1&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="32" tvg-id="TMCTAGALIZEDMOVIECHANNEL" tvg-name="TMC" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Local Movies",[AdoboTV][✓SM] TMC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTAy&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="33" tvg-id="Viva.Channel.ph" tvg-name="VivaCinema" tvg-logo="https://i.imgur.com/rVuZhuE.png" group-title="Local Movies",[AdoboTV][✓YS] VivaCinema
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE1Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="34" tvg-id="Andflix.in" tvg-name="&flix HD" tvg-logo="https://i.imgur.com/3BU6Wsg.png" group-title="Movies & Series",[AdoboTV][—EX] &flix HD
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwYy9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="35" tvg-id="AndpriveHD.in" tvg-name="&privé HD" tvg-logo="https://i.imgur.com/lhSTeZk.png" group-title="Movies & Series",[AdoboTV][—EX] &privé HD
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwcy9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="36" tvg-id="AMCEast.us" tvg-name="AMC" tvg-logo="https://i.imgur.com/OMER1D3.png" group-title="Movies & Series",[AdoboTV][✓YS] AMC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg3Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="37" tvg-id="AntennaTV.us" tvg-name="Antenna TV" tvg-logo="https://i.imgur.com/DWjzW7U.png" group-title="Movies & Series",[AdoboTV][✓YS] Antenna TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzk1NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="38" tvg-id="Bounce.us" tvg-name="Bounce" tvg-logo="https://i.imgur.com/sTROooq.png" group-title="Movies & Series",[AdoboTV][✓YS] Bounce
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkyNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="39" tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://i.imgur.com/M4SNibs.png" group-title="Movies & Series",[AdoboTV][—EX] CineLife
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iY3N0di5waHA_Y2hhbm5lbD0xMDU
+
+#EXTINF:-1 ch-number="40" tvg-id="Cinemax.ph" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/n5JwB33.png" group-title="Movies & Series",[AdoboTV][✓YS] Cinemax
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk0Mw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="41" tvg-id="CINEMA.WORLD.HD.ph" tvg-name="Cinemaworld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2022/07/CinemaWorld-Main-Logo_Tagline_CW-Logo-Main-Champagne-Gradient-e1656670669782.png" group-title="Movies & Series",[AdoboTV][✓YS] Cinemaworld
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk4NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="42" tvg-id="FXXEast.us" tvg-name="FXX" tvg-logo="https://i.imgur.com/M1SOklC.png" group-title="Movies & Series",[AdoboTV][✓YS] FXX
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg4OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="43" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="https://i.imgur.com/Q7tIT3Y.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg5Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="44" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://i.imgur.com/WBWUhmI.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Drama
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMzNQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="45" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://i.imgur.com/IyNMmzN.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Movies & Mysteries
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI5NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="46" tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies & Series",[AdoboTV][✓SM] HBO
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTgw&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="47" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/Ujvirdx.png" group-title="Movies & Series",[AdoboTV][✓YS] HBO 2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM2NQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="48" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="https://i.imgur.com/l4EBKxX.png" group-title="Movies & Series",[AdoboTV][✓YS] HBO Comedy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODA1OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="49" tvg-id="HBOFAMILY" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/uoOU6C2.png" group-title="Movies & Series",[AdoboTV][✓YS] HBO Family
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMwMA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="50" tvg-id="HBOHITS" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="Movies & Series",[AdoboTV][✓EV] HBO Hits
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMjg&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="51" tvg-id="HBOSIGNATURE" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Movies & Series",[AdoboTV][✓EV] HBO Signature
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMjE&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="52" tvg-id="HITS" tvg-name="Hits" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies & Series",[AdoboTV][✓SM] Hits
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTg0&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="53" tvg-id="HITSMovies" tvg-name="Hits Movies" tvg-logo="https://i.imgur.com/5FRdMCx.png" group-title="Movies & Series",[AdoboTV][✓BZ] Hits Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00MDE&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="54" tvg-id="HollywoodMovieChannel.tw" tvg-name="Hollywood Movie Channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="Movies & Series",[AdoboTV][—EX] Hollywood Movie Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE5OC4xNi42NC4xMDo4Mjc4L2hvbGx5d29vZG1vdmllc190d24vcGxheWxpc3QubTN1OD90aWQ9TUVDRTU2MTEyODExNTYxMTI4MTEmY3Q9MTkyMjUmdHN1bT1hZDg4ODRlZTE2YjA0Zjg4NWYyNGJhZTk4ZmM1ZmI5Zg
+
+#EXTINF:-1 ch-number="55" tvg-id="LotusMacau.cn" tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Movies & Series",[AdoboTV][✓BZ] Lotus Macau
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD0zNzQ&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="56" tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/5qoPxJG.png" group-title="Movies & Series",[AdoboTV][—EX] MovieSphere
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iY3N0di5waHA_Y2hhbm5lbD0xMDA4
+
+#EXTINF:-1 ch-number="57" tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe" tvg-logo="https://i.imgur.com/BJdJJYl.png" group-title="Movies & Series",[AdoboTV][✓SM] My Cinema Europe
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTc5&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="58" tvg-id="MyTimemovienetwork.us" tvg-name="MyTime movie network" tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="Movies & Series",[AdoboTV][✓YS] MyTime movie network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODEwNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="59" tvg-id="ParamountNetworkSingapore.sg" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies & Series",[AdoboTV][✓BZ] Paramount Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00MzU&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="60" tvg-id="Pixl.us" tvg-name="Pixl" tvg-logo="https://i.imgur.com/FtH4w3E.png" group-title="Movies & Series",[AdoboTV][✓YS] Pixl
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyNDY0MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="61" tvg-id="PopTV.us" tvg-name="Pop TV" tvg-logo="https://i.imgur.com/w0qSFJc.png" group-title="Movies & Series",[AdoboTV][✓YS] Pop TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkwMw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="62" tvg-id="RushbyAMC.us" tvg-name="Rush by AMC" tvg-logo="https://i.imgur.com/jHRd2Do.png" group-title="Movies & Series",[AdoboTV][—EX] Rush by AMC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9hbWMtcnVzaGJ5YW1jLTEuaW1kYnR2Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="63" tvg-id="ScreamFlix.us" tvg-name="ScreamFlix" tvg-logo="https://i.imgur.com/yJS08e9.png" group-title="Movies & Series",[AdoboTV][✓BZ] ScreamFlix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00MzM&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="64" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies & Series",[AdoboTV][✓YS] Showtime
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMyNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="65" tvg-id="StarMoviesIndia.in" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies & Series",[AdoboTV][—EX] Star Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL21qaWRpcHR2LmNvbToxOTk3L2hhbGEvMTIzNDU2Lzk5NTM
+
+#EXTINF:-1 ch-number="66" tvg-id="StarMoviesSelectHD.in" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies & Series",[AdoboTV][—EX] Star Movies Select
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwNi9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="67" tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies & Series",[AdoboTV][—EX] STIRR Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50L2YtekE3YjIxU3F1N00xX3NhYkdmakEvbWFzdGVyLm0zdTg
+
+#EXTINF:-1 ch-number="68" tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/U7o3O7W.png" group-title="Movies & Series",[AdoboTV][✓YS] Syfy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkxMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="69" tvg-id="TapActionFlixHD" tvg-name="TAP Action Flix" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="Movies & Series",[AdoboTV][✓YS] TAP Action Flix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg2Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="70" tvg-id="TAP.EDGE.ph" tvg-name="TAP Edge" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Movies & Series",[AdoboTV][✓YS] TAP Edge
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg2MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="71" tvg-id="TAPMOVIES" tvg-name="TAP Movies" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies & Series",[AdoboTV][✓SM] TAP Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTE2&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="72" tvg-id="THRILL" tvg-name="Thrill" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies & Series",[AdoboTV][✓SM] Thrill
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTc2&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="73" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://i.imgur.com/51K9kTu.png" group-title="Movies & Series",[AdoboTV][✓YS] USA Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkyMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="74" tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/33QyRzo.png" group-title="Movies & Series",[AdoboTV][✓SM] Warner TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTE4&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="75" tvg-id="VH1USEast.us" tvg-name="VH1" tvg-logo="https://i.imgur.com/63vAtMU.png" group-title="Movies & Series",[AdoboTV][✓YS] VH1
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkyMg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="76" tvg-id="TruTVEast.us" tvg-name="TruTV" tvg-logo="https://i.imgur.com/OlJVITr.png" group-title="Movies & Series",[AdoboTV][✓YS] TruTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI3OA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="77" tvg-id="EpixEast.us" tvg-name="Epix" tvg-logo="https://i.imgur.com/2qlh9Q5.png" group-title="Movies & Series",[AdoboTV][✓YS] Epix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTM2NzA2Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="78" tvg-id="MoviesNowPlus.in" tvg-name="Movies Now Plus" tvg-logo="https://i.imgur.com/l9Oz073.png" group-title="Movies & Series",[AdoboTV][—EX] Movies Now Plus
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3F1YWxpdHlvdmVycXVhbnRpdHkuc2l0ZTo4ODgwL3BsYXkvbGl2ZS5waHA_bWFjPTAwOjFBOjc5OjA4OjYwOkNEJnN0cmVhbT04NjI2ODImZXh0ZW5zaW9uPXRz
+
+#EXTINF:-1 ch-number="79" tvg-id="MNX.in" tvg-name="MNX" tvg-logo="https://i.imgur.com/ZS3hv4J.png" group-title="Movies & Series",[AdoboTV][—EX] MNX
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAxMi9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="80" tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="https://i.imgur.com/0TbkBJ5.png" group-title="Movies & Series",[AdoboTV][—EX] Movies Now
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3BwdnBsdWcubmV0Ojg4ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MWE6Nzk6NDg6NTU6MDgmc3RyZWFtPTg2MjY4NyZleHRlbnNpb249dHM
+
+#EXTINF:-1 ch-number="81" tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/XvZArCU.png" group-title="Movies & Series",[AdoboTV][—EX] Sony Pix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL2xpdmUvSm9uc25vL2p2NURSNTNmN0VHM0Fqdng2NS80OTUzOS50cw
+
+#EXTINF:-1 ch-number="82" tvg-id="StarzEast.us" tvg-name="Starz" tvg-logo="https://i.imgur.com/lEFr7Rn.png" group-title="Movies & Series",[AdoboTV][✓YS] Starz
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI3NQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="83" tvg-id="ABCEast.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/al9Ly6O.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] ABC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzk1MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="84" tvg-id="StoriesbyAMC.us" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/HyrsDmz.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] Stories by AMC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9mZTA0MjNhYmE5YzQ0YjllOTI1NzY1NzZlNGQzMTg5YS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9TYW1zdW5nX0FNQ1ByZXNlbnRzQ2xlYW4vcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="85" tvg-id="AFN" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/4VYSHyH.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Asian Food Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkzNQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="86" tvg-id="WNYWDT1.us" tvg-name="Fox" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] Fox
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3YtbnkudGhldXM2dHYuZHVja2Rucy5vcmcvaGxzLzUuMS9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="87" tvg-id="AXNHongKong.hk" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓EV] AXN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMjc&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="88" tvg-id="BBCFood.us" tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] BBC Food
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly83ZWViMmJlNDE4Y2M0ZjZmYTRiMjkyYWI0NDE3NjYyMy5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDRmZDkxM2JiMjc4ZDg3NzUyOThjMjZmZGNhOWQ5ODQxZjM3NjAxZi9Sb2t1X0JCQ0Zvb2QvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="89" tvg-id="BBCHome.us" tvg-name="BBC Home" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] BBC Home
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly84MDBhYmUyZmEyZWE0ZTY0OTNjYjBlNjgzNjBmYTQ1ZC5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDRmZDkxM2JiMjc4ZDg3NzUyOThjMjZmZGNhOWQ5ODQxZjM3NjAxZi9Sb2t1X0JCQ0hvbWUvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="90" tvg-id="BBCLifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/uoLLkjm.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓EV] BBC Lifestyle
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMDU&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="91" tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] C31 Melbourne
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kMWs2a2F4ODB3ZWN5NS5jbG91ZGZyb250Lm5ldC9STG5BS1kvaW5kZXgubTN1OA
+
+#EXTINF:-1 ch-number="92" tvg-id="CBSEast.us" tvg-name="CBS" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] CBS
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyNDYzNQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="93" tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/4aKFIkL.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Comedy Central
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg4Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="94" tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb1207.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Court TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODAyMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="95" tvg-id="CRIMEINVESTIGATION" tvg-name="Crime + Investigation" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓EV] Crime + Investigation
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMjA&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="96" tvg-id="Dabl.us" tvg-name="Dabl" tvg-logo="https://i.imgur.com/0EbItrr.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Dabl
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzk4Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="97" tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiOne-Logo-Web.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] Dubai One
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kbWlubnZsbC5jZG4ubWFuZ29tb2xvLmNvbS9kdWJhaW9uZS9zbWlsOmR1YmFpb25lLnN0cmVhbS5zbWlsL21lZGlhLm0zdTg
+
+#EXTINF:-1 ch-number="98" tvg-id="EEast.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/150px-E!_Logo.svg.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] E!
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg4NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="99" tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://i.imgur.com/Kx4dgbR.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] ETC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk1Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="100" tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/Y8JBfrT.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] FailArmy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQwNTI4Mw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="101" tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/512px-Food_Network_logo.svg.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Food Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg5MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="102" tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Game Show Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg5MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="103" tvg-id="GustoTV.au" tvg-name="Gusto TV" tvg-logo="https://i.imgur.com/eQSM4cj.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Gusto TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQwNTI2Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="104" tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://i.imgur.com/w8Zhf1b.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓SM] HGTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTcz&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="105" tvg-id="KaraokeChannel.ph" tvg-name="Karaoke Channel" tvg-logo="https://i.imgur.com/RwjNuK2.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓BZ] Karaoke Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00NTY&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="106" tvg-id="LIFETIME" tvg-name="Lifetime" tvg-logo="https://i.imgur.com/JoH5DP5.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Lifetime
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk3Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="107" tvg-id="MagnoliaNetworkEast.us" tvg-name="Magnolia Network" tvg-logo="https://i.imgur.com/ZVmal9T.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Magnolia Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM1MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="108" tvg-id="METROCHANNELSD" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Metro Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg3OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="109" tvg-id="NBCEast.us" tvg-name="NBC" tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] NBC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM1OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="110" tvg-id="Nosey.us" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] Nosey
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly82ODBkOWVkZWViZGE0YzQ5YTg5MzE0Y2E0ZmI3M2QwNS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9Sb2t1X05vc2V5L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="111" tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓SM] Rock Entertainment
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTkz&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="112" tvg-id="ROCKEXTREME" tvg-name="Rock Extreme" tvg-logo="https://i.imgur.com/RgQ53Es.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Rock Extreme
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkwNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="113" tvg-id="WPIXDT1.us" tvg-name="The CW" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] The CW
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3YtbnkudGhldXM2dHYuZHVja2Rucy5vcmcvaGxzLzExLjEvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="114" tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/dX6eGIu.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] The Pet Collective
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly8wMWNkMTc3MjI1OWQ0ZTZmOGE2N2UyNjFlMzIxYmUyOS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9QbGV4X1RoZVBldENvbGxlY3RpdmUvcGxheWxpc3QubTN1OD9hZHMud3VybF9jaGFubmVsPTEzNiZhZHMud3VybF9uYW1lPVRoZVBldENvbGxlY3RpdmUmYWRzLnVzX3ByaXZhY3k9MS0tLSZhZHMucHNpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmYWRzLnRhcmdldG9wdD0wJmFkcy5wbGV4X3Rva2VuPUFUOTZmcU1oc3luQUJzeWtzODRMJmFkcy5wbGV4X2lkPTVlZWE2MDU1NzQwODVmMDA0MGRkYzc4ZSZhZHMudWE9b2todHRwLzQuOS4wJmFkcy5hcHBfYnVuZGxlPWNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmFwcF9zdG9yZV91cmw9aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmdkcHI9MCZhZHMuY29uc2VudD0wJmFkcy5kZXZpY2VfdHlwZT1oYW5kc2V0JmFkcy5kZXZpY2VfaWRfdHlwZT0
+
+#EXTINF:-1 ch-number="115" tvg-id="ThePreviewChannel.us" tvg-name="The Preview Channel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/previewchannel_logo_dark_v2.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] The Preview Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9jOTQ0M2FiODI2N2U0ZjNhYmIyZTQ0ZjI2Y2E2OTY3YS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9QbGV4X1RoZVByZXZpZXdDaGFubmVsL3BsYXlsaXN0Lm0zdTg_YWRzLnd1cmxfY2hhbm5lbD01MDEmYWRzLnd1cmxfbmFtZT1UaGVQcmV2aWV3Q2hhbm5lbCZhZHMuY29wcGE9MCZhZHMudXNfcHJpdmFjeT0xLS0tJmFkcy5wc2lkPTYyMjc0MjQwLTA3ZTctNWQ5NC04ZGM4LWVmNjhjZjE5ZTE3NSZhZHMudGFyZ2V0b3B0PTAmYWRzLnBsZXhfdG9rZW49QVQ5NmZxTWhzeW5BQnN5a3M4NEwmYWRzLnBsZXhfaWQ9NjA4MDgzNDQ0MzYzYjcwMDM2Njk0MmRmJmFkcy51YT1va2h0dHAvNC45LjAmYWRzLmFwcF9idW5kbGU9Y29tLnBsZXhhcHAuYW5kcm9pZCZhZHMuYXBwX3N0b3JlX3VybD1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnBsZXhhcHAuYW5kcm9pZCZhZHMuZ2Rwcj0wJmFkcy5jb25zZW50PTAmYWRzLmRldmljZV90eXBlPWhhbmRzZXQmYWRzLmRldmljZV9pZF90eXBlPQ
+
+#EXTINF:-1 ch-number="116" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/eVWucpL.png" group-title="Lifestyle & Entertainment",[AdoboTV][—EX] TLC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwMS9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="117" tvg-id="FASHIONTV" tvg-name="FashionTV" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] FashionTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg5Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="118" tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] TNT
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkxNQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="119" tvg-id="TRAVELCHANNEL" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Travel Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNjAwNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="120" tvg-id="ViceTV.us" tvg-name="Vice" tvg-logo="https://i.imgur.com/gmWjd4v.png" group-title="Lifestyle & Entertainment",[AdoboTV][✓YS] Vice
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzkyMw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="121" tvg-id="ABC.au" tvg-name="ABC TV" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="News & Culture",[AdoboTV][—EX] ABC TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9jLm1qaC5uei8xMDEwMDI1MTAyNTEv
+
+#EXTINF:-1 ch-number="122" tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/ZHNW9jc.png" group-title="News & Culture",[AdoboTV][✓YS] ABC News Live
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMxNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="123" tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/gxnN9jX.png" group-title="News & Culture",[AdoboTV][✓YS] Al Jazeera
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkxNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="124" tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="News & Culture",[AdoboTV][—EX] ANC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9hbmNnbG9iYWwtYWJzY2JuLW9uby5hbWFnaS50di9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="125" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News & Culture",[AdoboTV][✓YS] BBC World News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkxMg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="126" tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News & Culture",[AdoboTV][✓YS] Bloomberg TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM2MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="127" tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/TtzvhdV.png" group-title="News & Culture",[AdoboTV][✓YS] CBS News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMyMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="128" tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://i.imgur.com/YN7O7aI.png" group-title="News & Culture",[AdoboTV][✓YS] Cheddar
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODEzNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="129" tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://i.imgur.com/yd1C0VX.png" group-title="News & Culture",[AdoboTV][—EX] CGTN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9saXZlLmNndG4uY29tLzEwMDAvcHJvZ19pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="130" tvg-id="CHANNELNEWSASIA" tvg-name="CNA" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News & Culture",[AdoboTV][✓EV] CNA
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMTg&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="131" tvg-id="CNBCAsia.sg" tvg-name="CNBC" tvg-logo="https://i.imgur.com/BfAIco6.png" group-title="News & Culture",[AdoboTV][✓EV] CNBC
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMzE&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="132" tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/1IU5HJ8.png" group-title="News & Culture",[AdoboTV][✓EV] CNN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMzM&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="133" tvg-id="CNN.Philippines.ph" tvg-name="CNN Philippines" tvg-logo="https://i.imgur.com/RyRgz3L.png" group-title="News & Culture",[AdoboTV][✓YS] CNN Philippines
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzEzNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="134" tvg-id="DEUTSCHEWELLE" tvg-name="DW" tvg-logo="https://i.imgur.com/sw4pLVT.png" group-title="News & Culture",[AdoboTV][—EX] DW
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvaW5kZXgubTN1OA
+
+#EXTINF:-1 ch-number="135" tvg-id="FOXNEWS" tvg-name="Fox News" tvg-logo="https://i.imgur.com/rSo1ARF.png" group-title="News & Culture",[AdoboTV][✓EV] Fox News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMTE&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="136" tvg-id="France24English.fr" tvg-name="France 24" tvg-logo="https://i.imgur.com/ye0DYQz.png" group-title="News & Culture",[AdoboTV][✓YT] France 24
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vRlJBTkNFMjRFbmdsaXNoL21hc3Rlci5tM3U4&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="137" tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1200px-GB_News_Logo.svg.png" group-title="News & Culture",[AdoboTV][—EX] GB News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9saXZlLWdibmV3cy1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzgyMjY3ZTg0YjllNTA1M2IzZmQwYWRlMTJjYjFhMTQ2ZGY3NDE2OWEvZ2JuZXdzLWxpdmUvbGl2ZS5tM3U4
+
+#EXTINF:-1 ch-number="138" tvg-id="GMANewsTV.ph" tvg-name="GMA News TV" tvg-logo="https://i.imgur.com/U2UrHnO.png" group-title="News & Culture",[AdoboTV][✓YS] GMA News TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE0Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="139" tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://i.imgur.com/z46rqry.png" group-title="News & Culture",[AdoboTV][✓YS] HLN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM1Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="140" tvg-id="LiveNOWfromFox.us" tvg-name="LiveNOW from Fox" tvg-logo="https://i.imgur.com/l2W1SOK.png" group-title="News & Culture",[AdoboTV][✓YS] LiveNOW from Fox
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE0MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="141" tvg-id="NBCLX.us" tvg-name="NBCLX" tvg-logo="https://i.imgur.com/WbsuRSe.png" group-title="News & Culture",[AdoboTV][—EX] NBCLX
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kMjZyeW4xczl2eHNnMC5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXh1bW8tbGluZWFyLW1haW4taGxzdjMvbWFzdGVyLm0zdTg_YWRzLmNoYW5uZWxJZD05OTk5NjUx
+
+#EXTINF:-1 ch-number="142" tvg-id="NBCNewsNow.us" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/ZWkmzoE.png" group-title="News & Culture",[AdoboTV][—EX] NBC News Now
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uYmNuZXdzMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzcyMzQyNi9OQkNOZXdzUGxheW1ha2VyMjR4N0xpbmVhcjk5YTNhODI3LXVhL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="143" tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="News & Culture",[AdoboTV][—EX] NBT World
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly90aGFpbmV3cy5wcmQuZ28udGgvbHYvbGl2ZS9jaDFfTF9MLnNkcC9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="144" tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="https://i.imgur.com/iQ9FwBY.png" group-title="News & Culture",[AdoboTV][✓YS] Newsmax TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI2Mw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="145" tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://i.imgur.com/IXnNyEk.png" group-title="News & Culture",[AdoboTV][✓YS] Newsy
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODEzOA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="146" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/NVkSoOe.png" group-title="News & Culture",[AdoboTV][—EX] NHK World Japan
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uaGt3bGl2ZS1vanAuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDAzNDU5L25oa3dsaXZlLW9qcC1lbi9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="147" tvg-id="NHKPREMIUM" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/980wNNW.png" group-title="News & Culture",[AdoboTV][—EX] NHK World Premium
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uaGt3bGl2ZS1wcmUtaW4ud2ViY2RuLnN0cmVhbS5uZS5qcC9obHMvbGl2ZS9uaGt3bGl2ZS1wcmUvaW5kZXhfNjAway5tM3U4
+
+#EXTINF:-1 ch-number="148" tvg-id="OneNews.ph" tvg-name="One News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/512px-OneNewsPH_logo.svg.png" group-title="News & Culture",[AdoboTV][✓EV] One News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMTc&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="149" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://i.imgur.com/SE4ZoBV.png" group-title="News & Culture",[AdoboTV][—EX] RT News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9ydC1nbGIucnR0di5jb20vbGl2ZS9ydG5ld3MvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="150" tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png" group-title="News & Culture",[AdoboTV][—EX] Sky News
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly92aWRwbHVzLnBjLmNkbi5iaXRncmF2aXR5LmNvbS9za3luZXdzcHAtb3JpZ2luL2xpdmUvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="151" tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/y8shX4o.png" group-title="News & Culture",[AdoboTV][—EX] TRT World
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly90di10cnR3b3JsZC5saXZlLnRydC5jb20udHIvbWFzdGVyLm0zdTg
+
+#EXTINF:-1 ch-number="152" tvg-id="AsianCrush" tvg-name="Asian Crush" tvg-logo="https://i.imgur.com/v0fJelc.png" group-title="Korean Entertainment",[AdoboTV][—EX] Asian Crush
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kYzQ0N2ZiZDQ0ZTQ0ZDMzYjY2YjkwYzFlYWFlZmVjMS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9QbGV4X0FzaWFuQ3J1c2gvcGxheWxpc3QubTN1OD9hZHMud3VybF9jaGFubmVsPTI2OSZhZHMud3VybF9uYW1lPUFzaWFuQ3J1c2gmYWRzLnVzX3ByaXZhY3k9MS0tLSZhZHMucHNpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmYWRzLnRhcmdldG9wdD0wJmFkcy5wbGV4X3Rva2VuPW80U0FOeTR6UzVidmdSejROaXEtJmFkcy5wbGV4X2lkPTVlZWE2MDU0NzQwODVmMDA0MGRkYzc2NyZhZHMudWE9b2todHRwJTJGNC45LjAmYWRzLmFwcF9idW5kbGU9Y29tLnBsZXhhcHAuYW5kcm9pZCZhZHMuYXBwX3N0b3JlX3VybD1odHRwcyUzQSUyRiUyRnBsYXkuZ29vZ2xlLmNvbSUyRnN0b3JlJTJGYXBwcyUyRmRldGFpbHMlM0ZpZCUzRGNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmdkcHI9MCZhZHMuY29uc2VudD0wJmFkcy5kZXZpY2VfdHlwZT1oYW5kc2V0JmFkcy5kZXZpY2VfaWRfdHlwZT0
+
+#EXTINF:-1 ch-number="153" tvg-id="ArirangTV" tvg-name="Arirang" tvg-logo="https://i.imgur.com/LMHgfWB.png" group-title="Korean Entertainment",[AdoboTV][—EX] Arirang
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2FtZGxpdmUuY3RuZC5jb20uZWRnZXN1aXRlLm5ldC9hcmlyYW5nXzFjaC9zbWlsOmFyaXJhbmdfMWNoLnNtaWwvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="154" tvg-id="KContentbyCJENM.us" tvg-name="CJ ENM" tvg-logo="https://i.imgur.com/GSCJbMH.png" group-title="Korean Entertainment",[AdoboTV][—EX] CJ ENM
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kNTBhMWcwbmgxNG91LmNsb3VkZnJvbnQubmV0L3YxL21hc3Rlci8zNzIyYzYwYTgxNWMxOTlkOWMwZWYzNmM1YjczZGE2OGE2MmIwOWQxL0NKLUVOTS1wcm9kL2U5MWM2NDE5XzJlNDVfNGY2Y19hNjQ2X2I5MTI2NThkNzNiOC9obHMvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="155" tvg-id="K-Plus" tvg-name="K-Plus" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Korean Entertainment",[AdoboTV][—EX] K-Plus
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3R2LmdyZWF0c3Rhci5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTowMDowRjo5NCZzdHJlYW09NTcxMTk1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPW12SWhTQmtQcUg
+
+#EXTINF:-1 ch-number="156" tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korean Entertainment",[AdoboTV][✓KB] KBS 1TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9rYnMucGhwP2NoYW5uZWw9MXR2&key=a2JzQGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="157" tvg-id="KBS2TV.kr" tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korean Entertainment",[AdoboTV][✓KB] KBS 2TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9rYnMucGhwP2NoYW5uZWw9MnR2&key=a2JzQGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="158" tvg-id="KBSWORLD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Korean Entertainment",[AdoboTV][—EX] KBS World
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly93bXM0LWtvcnR2LmFrYW1haXplZC5uZXQvYV9saXZlLzYzNzE5OTYzL3NtaWw6MjBjaDAxMS5zbWlsL3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="159" tvg-id="KIX" tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="Korean Entertainment",[AdoboTV][—EX] Kix
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzIxMC4yMTAuMTU1LjM3L2RyOTQ0NS9oL2gwNy9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="160" tvg-id="Mnet.kr" tvg-name="Mnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mnet.png/512px-Mnet.png" group-title="Korean Entertainment",[AdoboTV][✓MN] Mnet
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9tbmV0LnBocD9jaGFubmVsPXRydWU&key=bW5ldEBkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="161" tvg-id="NewK-Movies" tvg-name="New K-Movies" tvg-logo="https://i.imgur.com/b0a6O6p.png" group-title="Korean Entertainment",[AdoboTV][—EX] New K-Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly83NzMyYzU0MzYzNDI0OTc4ODIzNjNhOGNkMTRjZWZmNC5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDRmZDkxM2JiMjc4ZDg3NzUyOThjMjZmZGNhOWQ5ODQxZjM3NjAxZi9QbGV4X05ld01vdmllcy9wbGF5bGlzdC5tM3U4P2Fkcy53dXJsX2NoYW5uZWw9NjE4JmFkcy53dXJsX25hbWU9TmV3TW92aWVzJmFkcy5jb3BwYT0wJmFkcy51c19wcml2YWN5PTEtLS0mYWRzLnBzaWQ9NjIyNzQyNDAtMDdlNy01ZDk0LThkYzgtZWY2OGNmMTllMTc1JmFkcy50YXJnZXRvcHQ9MCZhZHMucGxleF90b2tlbj05d0pWWjZYVHJNeW9nTTctc1g0eSZhZHMucGxleF9pZD02MGQ0ZWRkYWIyZmRlYzAwMmMxNDExMzEmYWRzLnVhPW9raHR0cCUyRjQuOS4wJmFkcy5hcHBfYnVuZGxlPWNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmFwcF9zdG9yZV91cmw9aHR0cHMlM0ElMkYlMkZwbGF5Lmdvb2dsZS5jb20lMkZzdG9yZSUyRmFwcHMlMkZkZXRhaWxzJTNGaWQlM0Rjb20ucGxleGFwcC5hbmRyb2lkJmFkcy5nZHByPTAmYWRzLmNvbnNlbnQ9MCZhZHMuZGV2aWNlX3R5cGU9aGFuZHNldCZhZHMuZGV2aWNlX2lkX3R5cGU9
+
+#EXTINF:-1 ch-number="162" tvg-id="NewK-POP" tvg-name="New K-POP" tvg-logo="https://i.imgur.com/YbN7N5F.png" group-title="Korean Entertainment",[AdoboTV][—EX] New K-POP
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly8yZDJjYjc3MGI4MGE0ZTE5YmRlZDZhNTI2ZTFlOWM5Zi5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDRmZDkxM2JiMjc4ZDg3NzUyOThjMjZmZGNhOWQ5ODQxZjM3NjAxZi9QbGV4X05ld0tJRC9wbGF5bGlzdC5tM3U4P2Fkcy53dXJsX2NoYW5uZWw9Njk4JmFkcy53dXJsX25hbWU9TmV3S0lEJmFkcy5jb3BwYT0wJmFkcy51c19wcml2YWN5PTEtLS0mYWRzLnBzaWQ9NjIyNzQyNDAtMDdlNy01ZDk0LThkYzgtZWY2OGNmMTllMTc1JmFkcy50YXJnZXRvcHQ9MCZhZHMucGxleF90b2tlbj1vNFNBTnk0elM1YnZnUno0TmlxLSZhZHMucGxleF9pZD02MGQ0ZWRkN2IyZmRlYzAwMmMxNDExMmQmYWRzLnVhPW9raHR0cCUyRjQuOS4wJmFkcy5hcHBfYnVuZGxlPWNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmFwcF9zdG9yZV91cmw9aHR0cHMlM0ElMkYlMkZwbGF5Lmdvb2dsZS5jb20lMkZzdG9yZSUyRmFwcHMlMkZkZXRhaWxzJTNGaWQlM0Rjb20ucGxleGFwcC5hbmRyb2lkJmFkcy5nZHByPTAmYWRzLmNvbnNlbnQ9MCZhZHMuZGV2aWNlX3R5cGU9aGFuZHNldCZhZHMuZGV2aWNlX2lkX3R5cGU9
+
+#EXTINF:-1 ch-number="163" tvg-id="SBSTV.kr" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korean Entertainment",[AdoboTV][—EX] SBS TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uZXdpZGNvLXNicy0xLWV1LnhpYW9taS53dXJsLnR2L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="164" tvg-id="TVNAsia.hk" tvg-name="tvN" tvg-logo="https://i.imgur.com/lY1BAUH.png" group-title="Korean Entertainment",[AdoboTV][✓YS] tvN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg1Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="165" tvg-id="Viki.kr" tvg-name="Viki" tvg-logo="https://i.imgur.com/aCDdc13.png" group-title="Korean Entertainment",[AdoboTV][—EX] Viki
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uZXdpZGNvLXJha3V0ZW52aWtpLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="166" tvg-id="ygtv.kr" tvg-name="YG TV" tvg-logo="https://www.liblogo.com/img-logo/yg6610y508-yg-entertainment-logo-yg-entertainment-logo-kpop-by-novadestin-on-.png" group-title="Korean Entertainment",[AdoboTV][—EX] YG TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9uZXdpZGNvLXlndHYtMS1ldS54aWFvbWkud3VybC50di9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="167" tvg-id="Celestial.Movies.Pinoy.ph" tvg-name="Celestial Movies" tvg-logo="https://i.imgur.com/1EmaaTu.png" group-title="International",[AdoboTV][—EX] Celestial Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE5OC4xNi42NC4xMDo4Mjc4L0NlbGVzdGlhbDIvcGxheWxpc3QubTN1OD90aWQ9TUQzRDEyMTAwNTA1MTIxMDA1MDUmY3Q9MTkyMjUmdHN1bT1kNDBhYzQ4NGIxYTkwNGU1OTE1OGJkOTExYmJkOGI4OQ
+
+#EXTINF:-1 ch-number="168" tvg-id="LuxeTV.lu" tvg-name="Luxe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Luxe_TV.png" group-title="International",[AdoboTV][—EX] Luxe TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9hbGNoaW1pZS1sdXhlLXVrLXJha3V0ZW4uYW1hZ2kudHYvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="169" tvg-id="Telenovela.Channel.ph" tvg-name="Telenovela Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Telenovela_Channel.png" group-title="International",[AdoboTV][✓YS] Telenovela Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk5Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="170" tvg-id="AnimalPlanetHongKong.hk" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/zRbq9e5.png" group-title="Science & Documentaries",[AdoboTV][—EX] Animal Planet
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE5OC4xNi42NC4xMDo4Mjc4L2FuaW1hbHBsYW5ldF90d24vcGxheWxpc3QubTN1OD90aWQ9TUUxRTczMDM0OTY3NzMwMzQ5NjcmY3Q9MTkyMjUmdHN1bT0wN2IwZWRjNTIxYTRlZGNiN2EwMGQ3ZTk0M2I4YWE3Mg
+
+#EXTINF:-1 ch-number="171" tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Science & Documentaries",[AdoboTV][—EX] BBC Earth
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE5OC4xNi42NC4xMDo4Mjc4L2JiY2VhcnRoX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD1NRTRFMTIyMTEyMzMxMjIxMTIzMyZjdD0xOTIyNSZ0c3VtPTZjN2NhZTA3MTFiNzU3YTUzYjQzNTQwYmY0MGY5M2Iw
+
+#EXTINF:-1 ch-number="172" tvg-id="DISCOVERYASIA" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Science & Documentaries",[AdoboTV][✓YS] Discovery Asia
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg2Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="173" tvg-id="DiscoveryChannelHongKong.hk" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Science & Documentaries",[AdoboTV][✓SM] Discovery Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTU1&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="174" tvg-id="DiscoveryScienceHongKong.hk" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/bNeDt6M.png" group-title="Science & Documentaries",[AdoboTV][—EX] Discovery Science
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE5OC4xNi42NC4xMDo4Mjc4L2Rpc2NvdmVyeXNjX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD1NQTlBNDE5NDg2NDg0MTk0ODY0OCZjdD0xOTIyNSZ0c3VtPWQ4N2VkZTI4YzUxNTJkOGE3MzAwMzhmZDVmYjgyMDc
+
+#EXTINF:-1 ch-number="175" tvg-id="DiscoveryTurboUK.uk" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/QfyjIcA.png" group-title="Science & Documentaries",[AdoboTV][✓YS] Discovery Turbo
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyODE0Mw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="176" tvg-id="DMAXUK.uk" tvg-name="DMAX" tvg-logo="https://i.imgur.com/T2rGObN.png" group-title="Science & Documentaries",[AdoboTV][✓YS] DMAX
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyODQwMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="177" tvg-id="HISTORYHD" tvg-name="History" tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="Science & Documentaries",[AdoboTV][✓SM] History
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTUz&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="178" tvg-id="H2HD" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Science & Documentaries",[AdoboTV][✓YS] History 2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg4OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="179" tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/p4WBLG1.png" group-title="Science & Documentaries",[AdoboTV][—EX] Love Nature
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2JhbXVzLWVuZy1yb2t1LmFtYWdpLnR2L3BsYXlsaXN0MTA4MHAubTN1OA
+
+#EXTINF:-1 ch-number="180" tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/77xyH5z.png" group-title="Science & Documentaries",[AdoboTV][—EX] NASA TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly91cGx5bmtjb250ZW50LnNpbmNsYWlyc3RvcnlsaW5lLmNvbS9jaGFubmVsL2RkZDc2ZmRjMWMwYTQ1NmJhNTM3ZTRmNDhlODI3ZDNlLm0zdTg
+
+#EXTINF:-1 ch-number="181" tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science & Documentaries",[AdoboTV][—EX] NASA TV Public
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9udHYxLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAxNDA3NS9OQVNBLU5UVjEtSExTL21hc3Rlcl8yMDAwLm0zdTg
+
+#EXTINF:-1 ch-number="182" tvg-id="NASATVPublic.us" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science & Documentaries",[AdoboTV][—EX] NASA TV Media
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9udHYyLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAxMzkyMy9OQVNBLU5UVjItSExTL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="183" tvg-id="NationalGeographicMalaysia.my" tvg-name="National Geographic Channel" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Science & Documentaries",[AdoboTV][—EX] National Geographic Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwNy9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="184" tvg-id="NationalGeographicWildMalaysia.my" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Science & Documentaries",[AdoboTV][—EX] Nat Geo Wild
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAxYy9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="185" tvg-id="OUTDOOR.CHANNEL.ph" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Science & Documentaries",[AdoboTV][✓EV] Outdoor Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMjI&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="186" tvg-id="RealStories.au" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/1VzUjDC.png" group-title="Science & Documentaries",[AdoboTV][—EX] Real Stories
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9sZHMtcmVhbHN0b3JpZXMtc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="187" tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/1Ltaei8.png" group-title="Science & Documentaries",[AdoboTV][—EX] RT Documentary
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9ydC1ydGQucnR0di5jb20vbGl2ZS9ydGRvYy9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="188" tvg-id="SmithsonianChannelAsia.us" tvg-name="Smithsonian Channel" tvg-logo="https://i.imgur.com/h2AEQWZ.png" group-title="Science & Documentaries",[AdoboTV][—EX] Smithsonian Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zbWl0aHNvbmlhbmF1cy1zYW1zdW5nYXUuYW1hZ2kudHYvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="189" tvg-id="SpaceChannel.plex" tvg-name="Space Channel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spacechannel_logo_dark_v2.png" group-title="Science & Documentaries",[AdoboTV][—EX] Space Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9lcGcucHJvdmlkZXIucGxleC50di9saWJyYXJ5L3BhcnRzLzVlMjBiNzMwZjJmOGQ1MDAzZDczOWRiNy02MDQ3ZTBkMGEzYzM5NTAwMmRlY2ZjOWEubTN1OD9YLVBsZXgtQ2xpZW50LUlkZW50aWZpZXI9NGYxMGExMWQwMTU5MDU1ZS1jb20tcGxleGFwcC1hbmRyb2lkJlgtUGxleC1DbGllbnQtUGxhdGZvcm09QW5kcm9pZCZYLVBsZXgtVG9rZW49QVQ5NmZxTWhzeW5BQnN5a3M4NEw
+
+#EXTINF:-1 ch-number="190" tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Science & Documentaries",[AdoboTV][✓SM] TechStorm
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTY0&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="191" tvg-id="TimeLineAustralia.au" tvg-name="Time Line Australia" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Science & Documentaries",[AdoboTV][—EX] Time Line Australia
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9sZHMtdGltZWxpbmUtc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg
+
+#EXTINF:-1 ch-number="192" tvg-id="Xplore.us" tvg-name="Xplore" tvg-logo="https://i.imgur.com/t0aMffA.png" group-title="Science & Documentaries",[AdoboTV][—EX] Xplore
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvc2Ftc3VuZ3VzLXhwbG9yZS1zYW1zdW5ndXMvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="193" tvg-id="MagellanTVNOW" tvg-name="Magellan TV NOW" tvg-logo="https://i.imgur.com/YUELhUE.png" group-title="Science & Documentaries",[AdoboTV][—EX] Magellan TV NOW
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly85NmY2YWI0YTdmM2M0MzQ2OTliODUwMmEzNmQ2NzBmYy5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9QbGV4X01hZ2VsbGFuVFYvcGxheWxpc3QubTN1OD9hZHMud3VybF9jaGFubmVsPTMwNCZhZHMud3VybF9uYW1lPU1hZ2VsbGFuVFYmYWRzLnVzX3ByaXZhY3k9MS0tLSZhZHMucHNpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmYWRzLnRhcmdldG9wdD0wJmFkcy5wbGV4X3Rva2VuPW80U0FOeTR6UzVidmdSejROaXEtJmFkcy5wbGV4X2lkPTVmNTEzMmUyNjJmZTE2MDA0MGYyNmJmMiZhZHMudWE9b2todHRwJTJGNC45LjAmYWRzLmFwcF9idW5kbGU9Y29tLnBsZXhhcHAuYW5kcm9pZCZhZHMuYXBwX3N0b3JlX3VybD1odHRwcyUzQSUyRiUyRnBsYXkuZ29vZ2xlLmNvbSUyRnN0b3JlJTJGYXBwcyUyRmRldGFpbHMlM0ZpZCUzRGNvbS5wbGV4YXBwLmFuZHJvaWQmYWRzLmdkcHI9MCZhZHMuY29uc2VudD0wJmFkcy5kZXZpY2VfdHlwZT1oYW5kc2V0JmFkcy5kZXZpY2VfaWRfdHlwZT0
+
+#EXTINF:-1 ch-number="194" tvg-id="beINSports" tvg-name="beIN Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports",[AdoboTV][✓YS] beIN Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkwOQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="195" tvg-id="beINSports2" tvg-name="beIN Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814" group-title="Sports",[AdoboTV][✓YS] beIN Sports 2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkwOA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="196" tvg-id="BilliardTV" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ogaofxY.png" group-title="Sports",[AdoboTV][—EX] Billiard TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly8xNjIxNTkwNjcxLnJzYy5jZG43Ny5vcmcvSExTL0JJTExJQVJEVFZfU0NURS5tM3U4
+
+#EXTINF:-1 ch-number="197" tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports",[AdoboTV][—EX] Box Nation
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2NsaWVudHNwb3J0YWxzLnR2L3BsYXkvbGl2ZS5waHA_bWFjPTAwOjFBOjc5OkFCOkEwOkE2JnN0cmVhbT05ODEyJmV4dGVuc2lvbj10cw
+
+#EXTINF:-1 ch-number="198" tvg-id="ChannelFightMasterclass" tvg-name="Channel Fight Masterclass" tvg-logo="https://i.imgur.com/5GrreX6.png" group-title="Sports",[AdoboTV][—EX] Channel Fight Masterclass
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zdHJlYW0tdXMtZWFzdC0xLmdldHB1YmxpY2EuY29tL3BsYXlsaXN0Lm0zdTg_bmV0d29ya19pZD02OCZsaXZlPTEmYXBwX2J1bmRsZT1jb20ucGxleGFwcC5hbmRyb2lkJmRpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmYXBwX2RvbWFpbj1hcHAucGxleC50diZhcHBfbmFtZT1wbGV4Jmg9Jnc9JmNvbnRlbnRfdGl0bGU9bzRTQU55NHpTNWJ2Z1J6NE5pcS0mY29udGVudF9zZXJpZXM9NWYwZmYyNjVkNzFkY2IwMDQ0OWVjMDJhJmN1c3RvbTQ9cGxleCZnZHByPTAmZGV2aWNlX21ha2U9JmRldmljZV9tb2RlbD0mY29wcGE9MCZ1c19wcml2YWN5PTEtLS0mY3VzdG9tXzY9bzRTQU55NHpTNWJ2Z1J6NE5pcS0mY3VzdG9tXzc9NWYwZmYyNjVkNzFkY2IwMDQ0OWVjMDJhJmlzX2xhdD0w
+
+#EXTINF:-1 ch-number="199" tvg-id="EDGEsport.uk" tvg-name="EDGEsport" tvg-logo="https://i.imgur.com/NaJOJH0.png" group-title="Sports",[AdoboTV][—EX] EDGEsport
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvc2Ftc3VuZ3VzLWVkZ2VzcG9ydHVzYS1zYW1zdW5ndHYtdXMvcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="200" tvg-id="eGGNetwork.my" tvg-name="eGG Network" tvg-logo="https://i.imgur.com/b67FhXB.png" group-title="Sports",[AdoboTV][✓YS] eGG Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg5NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="201" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/G1A5f9n.png" group-title="Sports",[AdoboTV][✓YS] ESPN
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM2Mw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="202" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/2Er81xM.png" group-title="Sports",[AdoboTV][✓YS] ESPN 2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI5MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="203" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://i.imgur.com/IdyF5p0.png" group-title="Sports",[AdoboTV][✓SM] Eurosport
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTM5&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="204" tvg-id="FightNetwork" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/5IxhGXd.png" group-title="Sports",[AdoboTV][✓YS] Fight Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODIwOA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="205" tvg-id="FightSports" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",[AdoboTV][✓BZ] Fight Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD0zNzg&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="206" tvg-id="Fite.us" tvg-name="Fite" tvg-logo="https://i.imgur.com/GKF2r4V.png" group-title="Sports",[AdoboTV][✓YS] Fite
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTM5MjYxNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="207" tvg-id="Fite24/7" tvg-name="Fite 24/7" tvg-logo="https://i.imgur.com/j9cP5E0.png" group-title="Sports",[AdoboTV][—EX] Fite 24/7
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9lcGcucHJvdmlkZXIucGxleC50di9saWJyYXJ5L3BhcnRzLzVlMjBiNzMwZjJmOGQ1MDAzZDczOWRiNy02MmM4YTJkMmQ3NzQ2NDhiY2M3NmExMTYubTN1OD9YLVBsZXgtQ2xpZW50LUlkZW50aWZpZXI9NGYxMGExMWQwMTU5MDU1ZS1jb20tcGxleGFwcC1hbmRyb2lkJlgtUGxleC1DbGllbnQtUGxhdGZvcm09QW5kcm9pZCZYLVBsZXgtVG9rZW49OXdKVlo2WFRyTXlvZ003LXNYNHk
+
+#EXTINF:-1 ch-number="208" tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/o7z4LSt.png" group-title="Sports",[AdoboTV][✓YS] Fox Sports 1
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE3OA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="209" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/ib4o2X7.png" group-title="Sports",[AdoboTV][✓YS] Fox Sports 2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE3OQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="210" tvg-id="FTFSports" tvg-name="FTF Sports" tvg-logo="https://i.imgur.com/F0B1Vtq.png" group-title="Sports",[AdoboTV][✓YS] FTF Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE5OA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="211" tvg-id="GolfChannel" tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/g9RC8pQ.png" group-title="Sports",[AdoboTV][✓EV] Golf Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMzQ&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="212" tvg-id="HorseCountryTV.uk" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/9RThOrN.png" group-title="Sports",[AdoboTV][—EX] Horse and Country
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9obmNmcmVlLXNhbXN1bmdhdS5hbWFnaS50di9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="213" tvg-id="HorseRacing.ph" tvg-name="Horse Racing" tvg-logo="https://i.imgur.com/gKdAuO0.png" group-title="Sports",[AdoboTV][✓YS] Horse Racing
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTk2Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="214" tvg-id="IGN1" tvg-name="IGN1" tvg-logo="https://i.imgur.com/Kdi79vV.png" group-title="Sports",[AdoboTV][—EX] IGN1
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pZ24tcGxleC5hbWFnaS50di9hbVJkaXJlY3QvdXNfcHJpdmFjeT0xLS0tJmRpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmZG50PTAmWC1QbGV4LVRva2VuPW80U0FOeTR6UzVidmdSejROaXEtJmNoYW5uZWxJZD01ZWVhNjA1NDc0MDg1ZjAwNDBkZGM3N2MmdWlkPTFnOWFuNnFtcS04aDZnLXZtOC03NXpoLTQ2OHNpYmZpdDR1L2hscy9hbWFnaV9obHNfZGF0YV9pZ25BQUFBQUEtaWduLXBsZXhBL0NETi9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="215" tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/2agsNi7.png" group-title="Sports",[AdoboTV][✓YS] MLB Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE4MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="216" tvg-id="MMATV" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/QLJtsej.png" group-title="Sports",[AdoboTV][—EX] MMA TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9ODE5JmxpdmVzdHJlYW09MSZsaXZlPTEmYXBwX2J1bmRsZT1jb20ucGxleGFwcC5hbmRyb2lkJmRpZD02MjI3NDI0MC0wN2U3LTVkOTQtOGRjOC1lZjY4Y2YxOWUxNzUmYXBwX2RvbWFpbj1hcHAucGxleC50diZhcHBfbmFtZT1wbGV4Jmg9Jnc9JmN1c3RvbTQ9cGxleCZnZHByPTAmZGV2aWNlX21ha2U9JmRldmljZV9tb2RlbD0mY29wcGE9MSZ1c19wcml2YWN5PTEtLS0mY3VzdG9tXzY9bzRTQU55NHpTNWJ2Z1J6NE5pcS0mY3VzdG9tXzc9NjBlY2I4NzhlYmVmOWQwMDJjNGQwYTExJmlzX2xhdD0w
+
+#EXTINF:-1 ch-number="217" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Sports",[AdoboTV][✓YS] NBA TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE4Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="218" tvg-id="NBATVPhilippines.ph" tvg-name="NBA TV Philippines" tvg-logo="https://i.imgur.com/u7RGSDF.png" group-title="Sports",[AdoboTV][✓SM] NBA TV Philippines
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTM1&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="219" tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="https://i.imgur.com/FplCH0a.png" group-title="Sports",[AdoboTV][✓YS] NFL Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMzMQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="220" tvg-id="ONE.SPORTS.ph" tvg-name="One Sports" tvg-logo="https://i.imgur.com/FJfuQDi.png" group-title="Sports",[AdoboTV][✓YS] One Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQ4MzE1MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="221" tvg-id="OneSportsPlus.ph" tvg-name="One Sports+" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports",[AdoboTV][✓EV] One Sports+
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMzY&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="222" tvg-id="PBARush.ph" tvg-name="PBA Rush" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Sports",[AdoboTV][✓YS] PBA Rush
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTkxOQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="223" tvg-id="PREMIERSPORTS" tvg-name="Premier Sports" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports",[AdoboTV][✓BZ] Premier Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD00NTA&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="224" tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports",[AdoboTV][✓YS] RedBull TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODE5Mg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="225" tvg-id="SPOTVAsia" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="Sports",[AdoboTV][—EX] SPOTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC85OTU0NTgyNGY1MWY0YzE1OTJiMzUzMTRjNmVjZTNiMC9hcC1ub3J0aGVhc3QtMS82MjcxNDg2NTIxMDAxL3Byb2ZpbGVfMC9jaHVua2xpc3QubTN1OA
+
+#EXTINF:-1 ch-number="226" tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/VKnk9aG.png" group-title="Sports",[AdoboTV][—EX] SPOTV2
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC80OGVlZTE2OTE5ODM0ZDNiOTdkZjEwODJhNjQ5YmNmYS9hcC1ub3J0aGVhc3QtMS82MjcxNDg2NTIxMDAxL3Byb2ZpbGVfMC9jaHVua2xpc3QubTN1OA
+
+#EXTINF:-1 ch-number="227" tvg-id="SpecialEvents" tvg-name="Special Events" tvg-logo="https://i.imgur.com/vRlLmha.png" group-title="Sports",[AdoboTV][—EX] Special Events
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9ldmVudC5waHA_bGl2ZT10cnVl&key=ZXZlbnRAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="228" tvg-id="TAP.SPORTS.HD.ph" tvg-name="TAP Sports" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Sports",[AdoboTV][✓BZ] TAP Sports
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9iYXJiYXphaXB0di5waHA_Y2hhbm5lbD0zNTI&key=YmFyYmF6YWlwdHZAZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="229" tvg-id="TOROTV" tvg-name="Toro TV" tvg-logo="https://i.imgur.com/p1sGcgc.png" group-title="Sports",[AdoboTV][—EX] Toro TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zdHJlYW1pbmctbHVuYW90dC5ha2FtYWl6ZWQubmV0L3Rvcm90dl9vdHRlcmFfNDIyMjQzMjc4MS9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="230" tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/fWs5tap.png" group-title="Sports",[AdoboTV][✓YS] Tennis Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODM3NA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="231" tvg-id="UAAPVarsityChannel.ph" tvg-name="UAAP Varsity Channel" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Sports",[AdoboTV][✓SM] UAAP Varsity Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTM3&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="232" tvg-id="UFCTVRussia.us" tvg-name="UFC FightPass" tvg-logo="https://i.imgur.com/LH9qPVG.png" group-title="Sports",[AdoboTV][—EX] UFC FightPass
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N2ZXJpZ2VwbGF5LnR2L3BsYXkvbGl2ZS5waHA_bWFjPTAwOjFBOjc5OjUyOjZBOkRBJnN0cmVhbT0xMDEyMTcmZXh0ZW5zaW9uPXRz
+
+#EXTINF:-1 ch-number="233" tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/NhWC8fO.png" group-title="Sports",[AdoboTV][✓YS] World Poker Tour
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODIwNg&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="234" tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/gv0kIw9.png" group-title="Sports",[AdoboTV][—EX] WWE Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3BwdnBsdWcubmV0Ojg4ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6Mzk6Qzg6NTUmc3RyZWFtPTEwMTgmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49ZHF5a3Fjd3lVRw
+
+#EXTINF:-1 ch-number="235" tvg-id="BreezeTV.nz" tvg-name="Breeze TV" tvg-logo="https://i.imgur.com/11grA2V.png" group-title="Music",[AdoboTV][—EX] Breeze TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9saXZlc3RyZWFtZGlyZWN0LWJyZWV6ZXR2Lm1lZGlhd29ya3MubnovYnJlZXpldHYubTN1OA
+
+#EXTINF:-1 ch-number="236" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/miaMli5.png" group-title="Music",[AdoboTV][—EX] MTV Biggest Pop
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9wbHV0by1saXZlLnBsdXRvdHYubmV0L2VncmVzcy9jaGFuZGxlci9wbHV0bzAxL2xpdmUvVklBQ0JTMDIvbWFzdGVyLm0zdTg
+
+#EXTINF:-1 ch-number="237" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/512px-MTV_Classic_2021.svg.png" group-title="Music",[AdoboTV][✓YS] MTV Classic
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg5Nw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="238" tvg-id="MTV.LIVE.ph" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="Music",[AdoboTV][✓SM] MTV Live
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTMx&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="239" tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/wetiP5V.png" group-title="Music",[AdoboTV][—EX] MTV Spankin' New
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9wbHV0by1saXZlLnBsdXRvdHYubmV0L2VncmVzcy9jaGFuZGxlci9wbHV0bzAxL2xpdmUvVklBQ0JTMDcvbWFzdGVyLm0zdTg
+
+#EXTINF:-1 ch-number="240" tvg-id="MTVU.us" tvg-name="MTV U" tvg-logo="https://i.imgur.com/C8mx3ES.png" group-title="Music",[AdoboTV][✓YS] MTV U
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzk0MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="241" tvg-id="MTVMusicUK.uk" tvg-name="MTV Music UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/512px-MTV_Music_2021_logo.svg.png" group-title="Music",[AdoboTV][✓YS] MTV Music UK
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyODUwNw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="242" tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/VemjcDe.png" group-title="Music",[AdoboTV][—EX] Yo! MTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9wbHV0by1saXZlLnBsdXRvdHYubmV0L2VncmVzcy9jaGFuZGxlci9wbHV0bzAxL2xpdmUvVklBQ0JTMDEvbWFzdGVyLm0zdTg
+
+#EXTINF:-1 ch-number="243" tvg-id="MYX.ph" tvg-name="Myx PH" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Music",[AdoboTV][✓SM] Myx PH
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTc3&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="244" tvg-id="MyxUSA.us" tvg-name="Myx USA" tvg-logo="https://i.imgur.com/t2ZVXlJ.png" group-title="Music",[AdoboTV][—EX] Myx USA
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9teXhub2xhLWFic2Nibi1vbm8uYW1hZ2kudHYvaW5kZXhfNC5tM3U4
+
+#EXTINF:-1 ch-number="245" tvg-id="Now90's" tvg-name="Now 90's" tvg-logo="https://i.imgur.com/c0J13Hv.png" group-title="Music",[AdoboTV][—EX] Now 90's
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzE4OC4yNDEuMjE4LjE3NDo4MDcwL2xpdmUvSm9uc25vL2p2NURSNTNmN0VHM0Fqdng2NS8yOTA0MDYudHM
+
+#EXTINF:-1 ch-number="246" tvg-id="VEVO2K" tvg-name="VEVO 2K" tvg-logo="https://i.imgur.com/B6GbXlv.png" group-title="Music",[AdoboTV][—EX] VEVO 2K
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9kMmx6em16dDcwbGloMi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMzcyMmM2MGE4MTVjMTk5ZDljMGVmMzZjNWI3M2RhNjhhNjJiMDlkMS9jYy1jY2kwdmt6em9tb28wLXByb2QvMjZjMWU0NjItODI0YS00ZmM5LThhODAtNzY0MzUyYmY0NWQ0L2VlM2ZjZjFkLTExODMtNDJjNi05N2Y3LWU2ZTFlM2FiODU2Zi1zYW1zdW5nLXR2L2xpdmUubTN1OD9hZHMuZGV2aWNlX2RpZD0lN0JQU0lEJTdEJmFkcy5kZXZpY2VfZG50PSU3QlRBUkdFVE9QVCU3RCZhZHMudXNfcHJpdmFjeT0xWU5ZJmFkcy5hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0QmYWRzLmFwcF9uYW1lPSU3QkFQUF9OQU1FJTdE
+
+#EXTINF:-1 ch-number="247" tvg-id="Vevo90s.us" tvg-name="VEVO 90's" tvg-logo="https://i.imgur.com/JR3aWqT.png" group-title="Music",[AdoboTV][—EX] VEVO 90's
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81ZmQ3YmIxZjg2ZDk0YTAwMDc5NmUyYzIvbWFzdGVyLm0zdTg_YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjA
+
+#EXTINF:-1 ch-number="248" tvg-id="AnimaxAsia.sg" tvg-name="Animax" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="Kids",[AdoboTV][✓EV] Animax
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMTI&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="249" tvg-id="AnimeAllAges.us" tvg-name="Anime All Ages" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Kids",[AdoboTV][—EX] Anime All Ages
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzViZTRjNjMxMTg0M2I1NjMyOGJjZTYxOS9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPTUmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NSZkZXZpY2VNYWtlPTAmZGV2aWNlTW9kZWw9MCZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPTAmaW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD01JnVzZXJJZD0mc2VydmVyU2lkZUFkcz10cnVl
+
+#EXTINF:-1 ch-number="250" tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-logo="https://i.imgur.com/FkBYwsg.png" group-title="Kids",[AdoboTV][—EX] Anime All Day
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzU4MTJiN2QzMjQ5NDQ0ZTA1ZDA5Y2M0OS9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="251" tvg-id="ANIPLUS.SD.ph" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/kBB4Amt.png" group-title="Kids",[AdoboTV][—EX] Aniplus
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3R2LmdyZWF0c3Rhci5tZTo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTowMDoxRjo5NCZzdHJlYW09OTI2MjAyJmV4dGVuc2lvbj10cw
+
+#EXTINF:-1 ch-number="252" tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/Z8EH1qD.png" group-title="Kids",[AdoboTV][✓YS] BabyTV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI3Ng&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="253" tvg-id="BOOMERANG" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids",[AdoboTV][—EX] Boomerang
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAxbi9pbmRleC5tM3U4
+
+#EXTINF:-1 ch-number="254" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/YA86w8Q.png" group-title="Kids",[AdoboTV][✓SM] Cartoon Network
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTQ1&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="255" tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Kids",[AdoboTV][✓YS] Cartoonito
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQyODIwMw&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="256" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/xe9juXU.png" group-title="Kids",[AdoboTV][✓EV] CBeebies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9lYWdsZXZpc2lvbi5waHA_Y2hhbm5lbD0yMDY&key=ZWFnbGV2aXNpb25AZDBCbytWRGVjZW1iZXIyNjIwMjI
+
+#EXTINF:-1 ch-number="257" tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://i.imgur.com/DZkZbDo.png" group-title="Kids",[AdoboTV][—EX] CONtv Anime
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9jb250dmFuaW1lLmNpbmVkaWdtLmNvbS9jb25hcHAtc3NhaS9hbWFnaV9obHNfZGF0YV94dW1vLWhvc3QtY29udHZhbmltZS1qdW5jdGlvbi9DRE4vcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="258" tvg-id="DCKids.us" tvg-name="DC Kids" tvg-logo="https://www.dckids.com/themes/custom/dckids/logo.png" group-title="Kids",[AdoboTV][✓YT] DC Kids
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vZGNraWRzL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="259" tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/RNfYJb2.png" group-title="Kids",[AdoboTV][✓YS] Disney Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI2NQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="260" tvg-id="DisneyJuniorEast.us" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Kids",[AdoboTV][✓YS] Disney Junior
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxOTI3MQ&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="261" tvg-id="DisneyXDEast.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",[AdoboTV][✓YS] Disney XD
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODAzNA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="262" tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks Channel" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",[AdoboTV][✓SM] DreamWorks Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTY4&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="263" tvg-id="Lupinthe3rd.us" tvg-name="Lupin the 3rd" tvg-logo="https://images.fanart.tv/fanart/lupin-iii-part-i-5bfde2be4573a.png" group-title="Kids",[AdoboTV][—EX] Lupin the 3rd
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzYwZjc0YmE1MWM4MmFjMDAwNzc2YzY2OS9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="264" tvg-id="MoonbugKids" tvg-name="Moonbug Kids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids",[AdoboTV][✓YS] Moonbug Kids
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQzNTg3OA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="265" tvg-id="Naruto.us" tvg-name="Naruto" tvg-logo="https://logolook.net/wp-content/uploads/2021/07/Naruto-Logo.png" group-title="Kids",[AdoboTV][—EX] Naruto
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzVkYTBjODViZDJjOWMxMDAwOTM3MDk4NC9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="266" tvg-id="NickelodeonSouthEastAsia.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/6c2uWsr.png" group-title="Kids",[AdoboTV][✓SM] Nickelodeon
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTUw&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="267" tvg-id="NICKJR" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/9DgFUkc.png" group-title="Kids",[AdoboTV][✓SM] Nick Jr.
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTQ5&key=c2t5bW92aWVpcHR2QGQwQm8rVkRlY2VtYmVyMjYyMDIy
+
+#EXTINF:-1 ch-number="268" tvg-id="OnePiece.us" tvg-name="One Piece" tvg-logo="https://www.kindpng.com/picc/m/214-2142259_transparent-pirate-logo-png-one-piece-logo-transparent.png" group-title="Kids",[AdoboTV][—EX] One Piece
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzVmNzc5MGIzZWQwYzg4MDAwNzIwYjI0MS9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="269" tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",[AdoboTV][✓YS] PBS Kids
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODA0MA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="270" tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/digitalmediarights_retrocrush_1.png" group-title="Kids",[AdoboTV][—EX] RetroCrush
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly80NTAzNGNlMWNiYjc0ODlhYjE0OTkzMDFmNjI3NDQxNS5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9QbGV4X1JldHJvQ3J1c2gvcGxheWxpc3QubTN1OD9hZHMud3VybF9jaGFubmVsPTQ5MSZhZHMud3VybF9uYW1lPVJldHJvQ3J1c2gmYWRzLmNvcHBhPWZhbHNlJmFkcy5pc19sYXQ9MSZhZHMudWE9MCZhZHMuY29udGVudF90eXBlPWxpdmVmZWVkJmFkcy5jb250ZW50X3JhdGluZz1UVjE0
+
+#EXTINF:-1 ch-number="271" tvg-id="SuperToons.us" tvg-name="Super Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/SuperToons.jpg" group-title="Kids",[AdoboTV][✓YT] Super Toons
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vVUNMNHhMZV9TamNEY2NmcFZlU1JGR1lRL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="272" tvg-id="TokuSHOUTsu.us" tvg-name="TokuSHOUTsu" tvg-logo="https://www.shoutfactory.com/blog/wp-content/uploads/2020/03/STS.Logo_.Final_.KRed_.Texture.png" group-title="Kids",[AdoboTV][—EX] TokuSHOUTsu
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzVjM2Y4ZjEyYTkzYzJkNjFiOTk5MGE0ZS9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="273" tvg-id="ToonamiAftermathEast.us" tvg-name="Toonami Aftermath" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Kids",[AdoboTV][—EX] Toonami Aftermath
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2FwaS50b29uYW1pYWZ0ZXJtYXRoLmNvbTozMDAwL3BzdC9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="274" tvg-id="Transformers.us" tvg-name="Transformers" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9vyb8gpnykPZRwaGfXZwuKVST2xo6nYznz4JVm=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",[AdoboTV][✓YT] Transformers
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vVUNQb0NISG5hc3dpOXhkWGwtSlF1RDlRL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="275" tvg-id="UniversalKidsEast.us" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/512px-Universal_Kids_2019_Logo.svg.png" group-title="Kids",[AdoboTV][✓YS] Universal Kids
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODAzOA&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="276" tvg-id="WBKids.us" tvg-name="WB Kids" tvg-logo="https://www.dckidsfandome.com/assets/images/logo_wb_kids.png" group-title="Kids",[AdoboTV][✓YT] WB Kids
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vd2JraWRzL21hc3Rlci5tM3U4&key=eXN1c2Vyc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg
+
+#EXTINF:-1 ch-number="277" tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" tvg-logo="" group-title="Kids",[AdoboTV][—EX] Yu-Gi-Oh!
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0aXRjaGVyLWlwdjQucGx1dG8udHYvdjEvc3RpdGNoL2VtYmVkL2hscy9jaGFubmVsLzVmNGVjMTBlZDk2MzZmMDAwODliOGM4OS9tYXN0ZXIubTN1OD9kZXZpY2VUeXBlPXNhbXN1bmctdHZwbHVzJmRldmljZU1ha2U9c2Ftc3VuZyZkZXZpY2VNb2RlbD1zYW1zdW5nJmRldmljZVZlcnNpb249dW5rbm93biZhcHBWZXJzaW9uPXVua25vd24mZGV2aWNlTGF0PTAmZGV2aWNlTG9uPTAmZGV2aWNlRE5UPSU3QlRBUkdFVE9QVCU3RCZkZXZpY2VJZD0lN0JQU0lEJTdEJmFkdmVydGlzaW5nSWQ9JTdCUFNJRCU3RCZ1c19wcml2YWN5PTFZTlkmc2Ftc3VuZ19hcHBfZG9tYWluPSU3QkFQUF9ET01BSU4lN0Qmc2Ftc3VuZ19hcHBfbmFtZT0lN0JBUFBfTkFNRSU3RCZwcm9maWxlTGltaXQ9JnByb2ZpbGVGbG9vcj0mZW1iZWRQYXJ0bmVyPXNhbXN1bmctdHZwbHVz
+
+#EXTINF:-1 ch-number="278" tvg-id="ZooMooLatinAmerica.nz" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="Kids",[AdoboTV][—EX] ZooMoo
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly84ZTNiOWI4NmE5NDY0NWQ4YjM2Yzc3MjI5NjdjMDA4Ni5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvNDRmNzNiYTRkMDNlOTYwN2RjZDliZWJkY2I4NDk0ZDg2OTY0ZjFkOC9TYW1zdW5nX1pvb21vby9wbGF5bGlzdC5tM3U4
+
+#EXTINF:-1 ch-number="279" tvg-id="Jam883.ph" tvg-name="Jam 88.3" tvg-logo="https://i.imgur.com/s8kYBvU.png" group-title="Local Radio",[AdoboTV][—EX] Jam 88.3
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL2ZyZWUuZnVsbHNwZWVkLnR2L2lwdHYtcXVlcnk_c3RyZWFtaW5nLWlwPWh0dHBzOi8vdHdpdGNoLnR2L2phbTg4M3Bo
+
+#EXTINF:-1 ch-number="280" tvg-id="907LoveRadio.ph" tvg-name="90.7 Love Radio" tvg-logo="https://i.imgur.com/vWX11CO.png" group-title="Local Radio",[AdoboTV][—EX] 90.7 Love Radio
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9zMy5yYWRpby5jby9zZDQzZDZjYzZkL2xpc3Rlbg
+
+#EXTINF:-1 ch-number="281" tvg-id="915WinRadio.ph" tvg-name="91.5 Win Radio" tvg-logo="https://i.imgur.com/TByuVNW.png" group-title="Local Radio",[AdoboTV][—EX] 91.5 Win Radio
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9ub2RlLTIyLnplbm8uZm0vN3I1ZGU5aDk2bmh2dj96cz15TF82MmhudVJKU3ZOVEIxMk5IZ253JnpzPWlaUjd3SWJDVFlPcDF1RHFSR2Z5R0EmcmotdHRsPTUmcmotdG9rPUFBQUJnZnMyMXNjQXZ4akZBMklzVTlsSVlB
+
+#EXTINF:-1 ch-number="282" tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://i.imgur.com/fSYs17Y.png" group-title="Local Radio",[AdoboTV][✓YT] DZRH News TV
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vRFpSSE5ld3NUZWxldmlzaW9uL21hc3Rlci5tM3U4
+
+#EXTINF:-1 ch-number="283" tvg-id="SuperRadyoDZBB.ph" tvg-name="DZBB Super Radyo" tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="Local Radio",[AdoboTV][—EX] DZBB Super Radyo
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cDovL3N0cmVhbS5nbWFuZXdzLnR2L2lvc2xpdmUvbGl2ZXN0cmVhbS9jaHVua2xpc3QubTN1OD93b3d6YXNlc3Npb25pZD02OTM3MDExMDY
+
+#EXTINF:-1 ch-number="284" tvg-id="DZMM.TELERADYO.ph" tvg-name="DZMM TeleRadyo" tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="Local Radio",[AdoboTV][—EX] DZMM TeleRadyo
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly9hYnNjYm4tb25vLmFrYW1haXplZC5uZXQvbWlkcm9sbC9hbWFnaV9obHNfZGF0YV9hYnNjYm5BQUEtYWJzY2JuLXRlbGVyYWR5by1vYW5kby9DRE4vcGxheWxpc3QubTN1OA
+
+#EXTINF:-1 ch-number="285" tvg-id="LofiGirl.yt" tvg-name="Lofi Girl" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg=s48-c-k-c0x00ffffff-no-rj" group-title="Local Radio",[AdoboTV][✓YT] Lofi Girl
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=RlBxNUdoRzB3cGJvTHBJa0hKc3V1aVVCSGd6bGVvZU5LNWlFSDhRc0BkMEJvK1ZEZWNlbWJlcjI2MjAyMg&channel=aHR0cHM6Ly95dGxpdmUucGhjbmV0d29yay53b3JrZXJzLmRldi9zdHJlYW0vTG9maUdpcmwvbWFzdGVyLm0zdTg
+
