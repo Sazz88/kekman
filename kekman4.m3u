@@ -1,9 +1,13 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="A2Z.Channel.11.ph" tvg-name="A2Z" tvg-chno="1" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="Local TV", A2Z
 https://m3u-editor.com/serve/tchtviptvplaylist/738057735
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Local TV", BuKo Channel
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local TV", ALLTV
+https://m3u-editor.com/serve/tchtviptvplaylist/738055740
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/D5AaLfO.png" group-title="Local TV", BuKo Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/738057736
-#EXTINF: -1 tvg-id="GMA.7.ph" tvg-name="GMA" tvg-chno="10" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="Local TV", GMA
+#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Local TV", CNN Philippines
+https://m3u-editor.com/serve/tchtviptvplaylist/738057958
+#EXTINF: -1 tvg-id="GMA.7.ph" tvg-name="GMA" tvg-chno="10" tvg-logo="https://i.imgur.com/GFkcOaZ.png" group-title="Local TV", GMA
 https://m3u-editor.com/serve/tchtviptvplaylist/738057737
 #EXTINF: -1 tvg-id="GTV.ph" tvg-name="GTV" tvg-chno="11" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="Local TV", GTV
 https://m3u-editor.com/serve/tchtviptvplaylist/738057738
@@ -23,16 +27,12 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738057744
 https://m3u-editor.com/serve/tchtviptvplaylist/738057745
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="One PH" tvg-chno="21" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Local TV", One PH
 https://m3u-editor.com/serve/tchtviptvplaylist/738057746
-#EXTINF: -1 tvg-id="PTV.ph" tvg-name="People's Television Network" tvg-chno="30" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV", PTV 4
-https://m3u-editor.com/serve/tchtviptvplaylist/738057747
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PIE Channel" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV", PIE Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/738057748
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pep TV" tvg-chno="28" tvg-logo="https://i.imgur.com/FZtnTL2.png" group-title="Local TV", Pep TV
 https://m3u-editor.com/serve/tchtviptvplaylist/738057749
-#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local TV", Sari Sari
-https://m3u-editor.com/serve/tchtviptvplaylist/738057750
-#EXTINF: -1 tvg-id="ETC.ph" tvg-name="SolarFlix" tvg-chno="34" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local TV", SolarFlix
-https://m3u-editor.com/serve/tchtviptvplaylist/738057751
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RJ TV" tvg-logo="https://i.imgur.com/iAE0WKr.png" group-title="Local TV", RJTV
+https://m3u-editor.com/serve/tchtviptvplaylist/738055741
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-name="TV5" tvg-chno="36" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="Local TV", TV5
 https://m3u-editor.com/serve/tchtviptvplaylist/738057752
 #EXTINF: -1 tvg-id="DZMM.TELERADYO.ph" tvg-name="TeleRadyo" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABSCBNTeleRadyo_Logo.svg/800px-ABSCBNTeleRadyo_Logo.svg.png" group-title="Local TV", TeleRadyo
@@ -51,6 +51,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738057758
 https://m3u-editor.com/serve/tchtviptvplaylist/738057759
 #EXTINF: -1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-name="ScreamFlix" tvg-chno="35" tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="Local Movies", ScreamFlix
 https://m3u-editor.com/serve/tchtviptvplaylist/738057760
+#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local Movies", Sari Sari
+https://m3u-editor.com/serve/tchtviptvplaylist/738057750
+#EXTINF: -1 tvg-id="ETC.ph" tvg-name="SolarFlix" tvg-chno="34" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local Movies", SolarFlix
+https://m3u-editor.com/serve/tchtviptvplaylist/738057751
 #EXTINF: -1 tvg-id="THRILL.ph" tvg-name="Thrill" tvg-chno="38" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="Local Movies", Thrill
 https://m3u-editor.com/serve/tchtviptvplaylist/738057761
 #EXTINF: -1 tvg-id="Tagalized.Movie.Channel.ph" tvg-name="Tagalized Movie Channel" tvg-chno="37" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Local Movies", TMC
@@ -407,8 +411,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738057955
 https://m3u-editor.com/serve/tchtviptvplaylist/738057956
 #EXTINF: -1 tvg-id="CNN.ph" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnn.us.png" group-title="News & Information", CNN International
 https://m3u-editor.com/serve/tchtviptvplaylist/738057957
-#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="News & Information", CNN Philippines
-https://m3u-editor.com/serve/tchtviptvplaylist/738057958
 #EXTINF: -1 tvg-id="CHANNEL.NEWS.ASIA.ph" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News & Information", CNA
 https://m3u-editor.com/serve/tchtviptvplaylist/738057959
 #EXTINF: -1 tvg-id="English.-.DW.Deutsch.hk" tvg-logo="https://i.postimg.cc/bYSp7BpR/01.png" group-title="News & Information", Deutsche Welle
@@ -421,12 +423,14 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738057962
 https://m3u-editor.com/serve/tchtviptvplaylist/738057963
 #EXTINF: -1 tvg-id="HLN.HDTV.(HLNHD).ca" tvg-name="HLN" tvg-logo="https://i.imgur.com/z46rqry.png" group-title="News & Information", HLN
 https://m3u-editor.com/serve/tchtviptvplaylist/738057964
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="One News" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/512px-OneNewsPH_logo.svg.png" group-title="News & Information", One News
-https://m3u-editor.com/serve/tchtviptvplaylist/738057965
 #EXTINF: -1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://i.imgur.com/epsHpFE.png" group-title="News & Information", One America News
 https://m3u-editor.com/serve/tchtviptvplaylist/738057966
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="One News" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/512px-OneNewsPH_logo.svg.png" group-title="News & Information", One News
+https://m3u-editor.com/serve/tchtviptvplaylist/738057965
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="News & Information", SMNI
 https://m3u-editor.com/serve/tchtviptvplaylist/738057967
+#EXTINF: -1 tvg-id="PTV.ph" tvg-name="People's Television Network" tvg-chno="30" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="News & Information", PTV 4
+https://m3u-editor.com/serve/tchtviptvplaylist/738057747
 #EXTINF: -1 tvg-id="RT.France.fr" tvg-name="RT News" tvg-logo="https://i.imgur.com/SE4ZoBV.png" group-title="News & Information", RT News
 https://m3u-editor.com/serve/tchtviptvplaylist/738057968
 #EXTINF: -1 tvg-id="SkyNews.uk" tvg-logo="https://i.postimg.cc/g0b6Fpb3/640px-Sky-News-logo-svg.png" group-title="News & Information", Sky News
@@ -525,37 +529,37 @@ https://m3u-editor.com/serve/tchtviptvplaylist/742603434
 https://m3u-editor.com/serve/tchtviptvplaylist/738058003
 #EXTINF: -1 tvg-id="ZOO.MOO.ph" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="Kids TV", ZooMoo
 https://m3u-editor.com/serve/tchtviptvplaylist/738058004
-#EXTINF: -1 tvg-id="4Music.uk" tvg-name="4Music" tvg-logo="https://imgur.com/RhriTgX.png" group-title="Music Channels", 4Music
+#EXTINF: -1 tvg-id="4Music.uk" tvg-name="4Music" tvg-logo="https://imgur.com/RhriTgX.png" group-title="Music TV", 4Music
 https://m3u-editor.com/serve/tchtviptvplaylist/738058005
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Breeze TV" tvg-logo="https://i.imgur.com/DYS8DcF.png" group-title="Music Channels", Breeze TV
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Breeze TV" tvg-logo="https://i.imgur.com/DYS8DcF.png" group-title="Music TV", Breeze TV
 https://m3u-editor.com/serve/tchtviptvplaylist/738058006
-#EXTINF: -1 tvg-id="MYX.ph" tvg-name="MYX" tvg-chno="18" tvg-logo="https://i.imgur.com/VkYFPIe.png" group-title="Music Channels", MYX
+#EXTINF: -1 tvg-id="MYX.ph" tvg-name="MYX" tvg-chno="18" tvg-logo="https://i.imgur.com/VkYFPIe.png" group-title="Music TV", MYX
 https://m3u-editor.com/serve/tchtviptvplaylist/738058007
-#EXTINF: -1 tvg-id="MTV.ASIA.ph" tvg-name="MTV Asia" tvg-logo="https://imgur.com/NCjeCLz.png" group-title="Music Channels", MTV Asia
+#EXTINF: -1 tvg-id="MTV.ASIA.ph" tvg-name="MTV Asia" tvg-logo="https://imgur.com/NCjeCLz.png" group-title="Music TV", MTV Asia
 https://m3u-editor.com/serve/tchtviptvplaylist/738058008
-#EXTINF: -1 tvg-id="English.-.MTV.India.hk" tvg-logo="https://i.imgur.com/e2nVskZ.png" group-title="Music Channels", MTV Pinoy
+#EXTINF: -1 tvg-id="English.-.MTV.India.hk" tvg-logo="https://i.imgur.com/e2nVskZ.png" group-title="Music TV", MTV Pinoy
 https://m3u-editor.com/serve/tchtviptvplaylist/738058009
-#EXTINF: -1 tvg-id="MTV.LIVE.HD.ph" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="Music Channels", MTV Live
+#EXTINF: -1 tvg-id="MTV.LIVE.HD.ph" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="Music TV", MTV Live
 https://m3u-editor.com/serve/tchtviptvplaylist/738058010
-#EXTINF: -1 tvg-id="MTVClassicUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/512px-MTV_Classic_2021.svg.png" group-title="Music Channels", MTV Classic
+#EXTINF: -1 tvg-id="MTVClassicUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/512px-MTV_Classic_2021.svg.png" group-title="Music TV", MTV Classic
 https://m3u-editor.com/serve/tchtviptvplaylist/738058011
-#EXTINF: -1 tvg-id="MTVBaseUK.uk" tvg-name="MTV Base" tvg-logo="https://imgur.com/5H9Kz1A.png" group-title="Music Channels", MTV Base
+#EXTINF: -1 tvg-id="MTVBaseUK.uk" tvg-name="MTV Base" tvg-logo="https://imgur.com/5H9Kz1A.png" group-title="Music TV", MTV Base
 https://m3u-editor.com/serve/tchtviptvplaylist/738058012
-#EXTINF: -1 tvg-id="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music Channels", MTV 00s
+#EXTINF: -1 tvg-id="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music TV", MTV 00s
 https://m3u-editor.com/serve/tchtviptvplaylist/738058013
-#EXTINF: -1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/miaMli5.png" group-title="Music Channels", MTV Biggest Pop
+#EXTINF: -1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/miaMli5.png" group-title="Music TV", MTV Biggest Pop
 https://m3u-editor.com/serve/tchtviptvplaylist/738058014
-#EXTINF: -1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/wetiP5V.png" group-title="Music Channels", MTV Spankin' New
+#EXTINF: -1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/wetiP5V.png" group-title="Music TV", MTV Spankin' New
 https://m3u-editor.com/serve/tchtviptvplaylist/738058015
-#EXTINF: -1 tvg-id="KaraokeChannel.ph" tvg-name="Karaoke Channel" tvg-logo="https://i.imgur.com/RwjNuK2.png" group-title="Music Channels", The Karaoke Channel
+#EXTINF: -1 tvg-id="KaraokeChannel.ph" tvg-name="Karaoke Channel" tvg-logo="https://i.imgur.com/RwjNuK2.png" group-title="Music TV", The Karaoke Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/738058016
-#EXTINF: -1 tvg-id="Vevo70s.us" tvg-name="Vevo 70's" tvg-logo="https://imgur.com/nnS6Yqp.png" group-title="Music Channels", Vevo 70's
+#EXTINF: -1 tvg-id="Vevo70s.us" tvg-name="Vevo 70's" tvg-logo="https://imgur.com/nnS6Yqp.png" group-title="Music TV", Vevo 70's
 https://m3u-editor.com/serve/tchtviptvplaylist/738058017
-#EXTINF: -1 tvg-id="Vevo80s.us" tvg-name="Vevo 80's" tvg-logo="https://imgur.com/37FkPzV.png" group-title="Music Channels", Vevo 80's
+#EXTINF: -1 tvg-id="Vevo80s.us" tvg-name="Vevo 80's" tvg-logo="https://imgur.com/37FkPzV.png" group-title="Music TV", Vevo 80's
 https://m3u-editor.com/serve/tchtviptvplaylist/738058018
-#EXTINF: -1 tvg-id="Vevo90s.us" tvg-name="Vevo 90's" tvg-logo="https://imgur.com/Gk584P0.png" group-title="Music Channels", Vevo 90's
+#EXTINF: -1 tvg-id="Vevo90s.us" tvg-name="Vevo 90's" tvg-logo="https://imgur.com/Gk584P0.png" group-title="Music TV", Vevo 90's
 https://m3u-editor.com/serve/tchtviptvplaylist/738058019
-#EXTINF: -1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/VemjcDe.png" group-title="Music Channels", Yo! MTV
+#EXTINF: -1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/VemjcDe.png" group-title="Music TV", Yo! MTV
 https://m3u-editor.com/serve/tchtviptvplaylist/738058020
 #EXTINF: -1 tvg-id="BEIN.SPORTS.1.HD.ph" tvg-logo="https://imgur.com/qiT7AYA.png" group-title="Sports TV", beIN Max 1
 https://m3u-editor.com/serve/tchtviptvplaylist/738058021
@@ -2977,3 +2981,163 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738059228
 https://m3u-editor.com/serve/tchtviptvplaylist/738059229
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LwgmuQR.jpg" group-title="VOD Full Movies (Foreign)", Zombies 3 (2022)
 https://m3u-editor.com/serve/tchtviptvplaylist/738059230
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY5ZWI3OGYtNjcyOS00ZjU4LWJkMGEtNjhiMDY2Y2JmZGNjXkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", The Last Heist (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950765
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZjM2ZlMTctMTMzOC00NGRlLTg2ZGUtYzI3OGExZjkyZGYwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Lost Bullet 2 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950766
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2022/10/Dont-Fuck-inThe-Woods-2-Poster.jpg" group-title="VOD Full Movies (Foreign)", Dont Fuck In The Woods 2 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950767
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/avatar-the-way-of-water-et00037264-1670850986.jpg" group-title="VOD Full Movies (Foreign)", Avatar: The Way Of Water (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950768
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJmNTQ2MzMtOTNmMi00NDE2LThhMjEtMDc1N2FiMmRhNjNiXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_.jpg" group-title="VOD Full Movies (Foreign)", Xmas (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950769
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFmODFhYWYtNTVlYS00ZGQwLTk1ZmMtODNhYjE5M2Q4YzI0XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Who Killed Santa A Murderville Murder Mystery (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950770
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg1YjljNjYtMTMyNi00MTM1LWE3NTQtM2QzZTE1MmY4YTJhXkEyXkFqcGdeQXVyNTkyNzk3OA@@._V1_.jpg" group-title="VOD Full Movies (Foreign)", The Boss Baby: Christmas Bonus (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950771
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODliMDVkNGEtMjhmOC00YmVjLWE1MTQtMWY3NmRjMGJmZTZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="VOD Full Movies (Foreign)", The Big Four (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950772
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzZGQ5MDgtMjRkNC00NzU4LWE2MTAtZmNkNmVkNjBhODhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR93,0,190,281_.jpg" group-title="VOD Full Movies (Foreign)", Shock Docs Ghosts Of Flight 401 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950773
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MxZmU0ZmYtZDNiNi00MTA3LThhNDQtNzI1YjYwYzhjZDExXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="VOD Full Movies (Foreign)", Secret Headquarters (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950774
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc5MWI4ZDgtNDAwMC00ZDVhLTg4NzItNDI5MzM0YjRiY2RjXkEyXkFqcGdeQXVyMTQyNDk2NzE@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Scentsational Christmas (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950775
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiMDBkOTMtYzdhMi00NTE1LTk5NTgtNDQ4NTE3MGQxYWMxXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Renegades (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950776
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMxNDRhNjAtYjhmNi00YTg0LWE5NjAtNDVhM2EyOTc5NzMyXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="VOD Full Movies (Foreign)", Record Breaking Christmas (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950777
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjMjc1YjktNzczZi00ZWZhLTgyNjUtNWUzZDIwNDZkMTcwXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg" group-title="VOD Full Movies (Foreign)", Private Lesson (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950778
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIzYzBkNDMtZTliOC00YmQ4LWE5YjctMWRiZTAzYjNiOTM1XkEyXkFqcGdeQXVyNjk0MTExOQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", I Believe In Santa (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950779
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZkMTM4NGQtMGY3My00ZmZlLTg1ZGEtMjgwNTIyYTdkZDhhXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_.jpg" group-title="VOD Full Movies (Foreign)", Holiday Heritage (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950780
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMyNjFmNWYtY2M0Mi00OTkwLWI4MWUtMzQwOWY0MGFlZTk4XkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_.jpg" group-title="VOD Full Movies (Foreign)", High Heat (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950781
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/67/76/67765b91d15e2bc107cb7d6cde8f65bc/67765b91d15e2bc107cb7d6cde8f65bc.jpg" group-title="VOD Full Movies (Foreign)", Puss in Boots: The Last Wish (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950782
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/cc/ff/ccff5242232b96b36ed22f0a0dda8234/ccff5242232b96b36ed22f0a0dda8234.jpg" group-title="VOD Full Movies (Foreign)", Violent Night (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950783
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/dd/31/dd31428b33327f67777839b4339f1079/dd31428b33327f67777839b4339f1079.jpg" group-title="VOD Full Movies (Foreign)", Everything Everywhere All at Once (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950784
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/c6/81/c681855ac6df04567df25109a00df859/c681855ac6df04567df25109a00df859.jpg" group-title="VOD Full Movies (Foreign)", Guillermo del Toro's Pinocchio (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950785
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/94/e7/94e701c976b3e26c330c047c9d7d836a/94e701c976b3e26c330c047c9d7d836a.jpg" group-title="VOD Full Movies (Foreign)", Roald Dahl's Matilda the Musical (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950786
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/ae/18/ae18fa0f8a0ecf6199a1952b6e6ee279/ae18fa0f8a0ecf6199a1952b6e6ee279.jpg" group-title="VOD Full Movies (Foreign)", Strange World (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950787
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://img.myflixer.to/xxrz/250x400/201/f8/27/f827eba46057101fdd54ba301eff2a89/f827eba46057101fdd54ba301eff2a89.jpg" group-title="VOD Full Movies (Foreign)", Glass Onion: A Knives Out Mystery (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950788
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="(no tvg-name)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", The Menu (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950789
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w500/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg" group-title="VOD Full Movies (Foreign)", The Amazing Maurice (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950790
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkYmMxNTQtNjFiOS00MzQyLWEwZWItOWYzZjU3NTRkM2I1XkEyXkFqcGdeQXVyODczMTUwMzc@._V1_.jpg" group-title="VOD Full Movies (Foreign)", The 90th Annual Hollywood Christmas Parade (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950791
+#EXTINF: -1 tvg-logo="https://www.j-14.com/wp-content/uploads/2022/11/PP_17215_SWDY_Press_Release_PR_Vert_2700x4000_PAYOFF.jpg" group-title="VOD Full Movies (Foreign)", Snow Day (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950792
+#EXTINF: -1 tvg-logo="https://phcorner.net/attachments/mv5bzmmynmmxzwytodiyny00nje5lthjyjytymiwn2nmzgzizjm5xkeyxkfqcgdeqxvymtezmti1mjk3-_v1_fmjpg_ux1-jpg.2366806/" group-title="VOD Full Movies (Foreign)", My Name Is Vendetta (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950793
+#EXTINF: -1 tvg-logo="https://resizing.flixster.com/ot7jNKIJPa0svcG5Hcuqmkx_WsU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiZWI4N2Y4LTgwZTctNGEwZS05ZmMxLWQ3M2QzYTllM2IwMy5qcGc=" group-title="VOD Full Movies (Foreign)", Troll (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950794
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBkOWEyZjItY2EzNS00ZWFlLTg1MTEtZTg5N2EwOTVhMDg4XkEyXkFqcGdeQXVyMTk0NzcxMTQ@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Goodbye Monster (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950795
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0ZjUyYTItZmFlYS00MjI5LTljNmItODliMDkwMmY4ZTVkXkEyXkFqcGdeQXVyMTU0ODA5OTE2._V1_.jpg" group-title="VOD Full Movies (Foreign)", Bones And All (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950796
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVhNmMwNWYtMmYwMy00MzNhLWFlNDUtY2Q1YjlhODQzMDE1XkEyXkFqcGdeQXVyMTI5ODA1OTU0._V1_.jpg" group-title="VOD Full Movies (Foreign)", Warriors of Future (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950797
+#EXTINF: -1 tvg-name="The Good Nurse (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZhODQ3NDUtMjE1OS00MzEzLWFhY2MtY2U2YjQzYWUyYWQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", The Good Nurse (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950798
+#EXTINF: -1 tvg-logo="https://static.metacritic.com/images/products/movies/3/fd2f7f81a1192ea291939380fcffb370.jpg" group-title="VOD Full Movies (Foreign)", Barbarian (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950799
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I4NzkzMzEtMWViZC00MDE3LTg3ZTUtYmEyNTIzYTU0M2NmXkEyXkFqcGdeQXVyMTA1MDIxODk4._V1_.jpg" group-title="VOD Full Movies (Foreign)", Detective Knight: Rogue (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950800
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1ZWVjOWYtYTczOS00MTNlLWJiM2MtM2EzYThmOGZhOTZmXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Raymond & Ray (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950801
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhmNWMyYjQtNTVlMC00MGUwLWFmYjEtM2NkNWY0ODQ2YmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD Full Movies (Foreign)", The Stranger (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950802
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUzZTE4MjYtY2E5ZC00NWUxLTk3MmItMTE1OGU4YTA4ZDgwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="VOD Full Movies (Foreign)", 20th Century Girl (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950803
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzOTZjYjYtMTI3MS00NWE1LWIyZTktYTRlMTBlYjlkMjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD Full Movies (Foreign)", Terrifier 2 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950804
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI3MzQ5NjEtMTczZS00YTU5LTg0YjItN2IxNWI3NjViOTIyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD Full Movies (Foreign)", Ticket to Paradise (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950805
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ5ZDYyMzMtNDRjZi00YWMxLTgzYTktNjBkNjJjMDM3NDE2XkEyXkFqcGdeQXVyNzEyMjQwOTQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Matriarch (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950806
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", The School for Good and Evil (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950807
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg4NDc0OGUtZDBmYy00NzY0LWJiMWUtYjUxNzliMzEzMjNmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Rosaline (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950808
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MWY3YTEtYmYwNC00MGU1LTk2YWMtOTk0YjgxNDM3NjdjXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Accident Man: Hitman's Holiday (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950809
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_.jpg" group-title="VOD Full Movies (Foreign)", In Time (2011)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950810
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD Full Movies (Foreign)", Hellraiser (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950811
+#EXTINF: -1 tvg-logo="https://flxt.tmsimg.com/assets/p159683_p_v8_al.jpg" group-title="VOD Full Movies (Foreign)", Perfume: The Story of a Murderer (2006)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950812
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY3NGYzZGUtZDJjMS00NmI1LTgzY2ItODEyODcxNmI5MzkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Mr. Harrigan's Phone (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950813
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0YzMwZjEtMjllNC00OGY2LTg2NDEtZjE4MzQ4YzY2OTQ3XkEyXkFqcGdeQXVyODE5MDk4NjI@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Jeepers Creepers: Reborn (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950814
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTlmMTVlMWMtOGI0Zi00MWYwLThiNGYtMTBiZTgzZTg2ODZlXkEyXkFqcGdeQXVyMTA4NTQwNjY4._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Trick or Treat Scooby-Doo! (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950815
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3MzZmNTEtNzdlMy00NTkyLWIzYmMtNzA1YmY4MTMxOTg3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Hunt (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950816
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAyMmM4ZmYtZGZhMi00YmY3LTgyOWMtMjA0NGVkODMwNzA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD Full Movies (Foreign)", Dead for a Dollar (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950817
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="VOD Full Movies (Foreign)", Hocus Pocus 2 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950818
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQxOWUxMDktNzIyMy00NzZkLTg2MTUtZGIxOTlhZjYzMjVlXkEyXkFqcGdeQXVyNzI1MTM3Njg@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Vesper (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950819
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2YTA1MGYtMGNjMi00YTJlLWI1YjItMjBjOGJlZGIwZmYzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Blonde (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950820
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg1ZDk2ODAtOTI5Zi00NTM2LTk4NWEtNTcyNDRlYmZkODc2XkEyXkFqcGdeQXVyMTM2ODY4Nzk0._V1_.jpg" group-title="VOD Full Movies (Foreign)", In isolation (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950821
+#EXTINF: -1 tvg-name="https://dl.dropboxusercontent.com/s/qf7v3r6jbujfcdi/Vlog_01.mkv?dl=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Saving Private Ryan (1998)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950822
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjJjNWNmYTUtOTY0MC00ZTNiLTllNDYtZWQ4YjQ1MjUxM2NmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Dig (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950823
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNjNzZhYjItMzk1Zi00Y2I3LTgxM2YtMjliM2Y5N2ZhNDY3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Section 8 (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950824
+#EXTINF: -1 tvg-logo="https://plansinfo.sgp1.digitaloceanspaces.com/OTT/v2/images/bandit-943523.jpg" group-title="VOD Full Movies (Foreign)", Bandit (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950825
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyYWQ2ZmEtYTEzZi00OGExLWE0YTItOGYyODBhY2M4NDI1XkEyXkFqcGdeQXVyNTYzMTc4MzY@._V1_.jpg" group-title="VOD Full Movies (Foreign)", The Munsters (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950826
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Thor: Love and Thunder (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950827
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFjMTQ3YjgtMTE1Yy00NjMxLWJiOTQtZGYxNWY2NTc0NWNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD Full Movies (Foreign)", Three Thousand Years of Longing (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950828
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Green Book (2018)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950829
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ZDRjYjEtOWJiOS00NWVjLWI1MjAtNWNiMzAwNGFmNjljXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Day Shift (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950830
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQzYmE0MjUtODllNC00MTAwLWI5NDItNjI5ODRlMWU3ZWMzXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", BTS: Permission to Dance on Stage - LA (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950831
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE1ZGNmNWQtYmQxYi00NjJlLWJkMzgtYWYyZGM5MmJjYmM0XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Blackpink: The Movie (2021)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950832
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://resizing.flixster.com/adyvdIF6Htq2OY_W0ollYPF6DAY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0MTkxOGY0LWJmMzgtNGZkNS1iMTUwLWNkN2JiNGExNWQyNy5qcGc=" group-title="VOD Full Movies (Foreign)", Blackpink: Light Up the Sky (2020)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950833
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyYjM3N2EtOTU1MC00YTA4LTgzNjctMTNjODcxZTZhODU2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", Pinocchio (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950834
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Hercules (2014)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950835
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Central Intelligence (2016)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950836
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mnCxCV9.jpg" group-title="VOD Full Movies (Foreign)", Baywatch (2017)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950837
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI4MTRlNzgtMDkzMy00ODlkLThmNTktMzU5ZDQyM2RkZGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Spectral (2016)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950838
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Extraction (2020)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950839
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwNjMyMzQ3M15BMl5BanBnXkFtZTcwMjcwNDMyOA@@._V1_.jpg" group-title="VOD Full Movies (Foreign)", Trouble with the Curve (2012)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950840
+#EXTINF: -1 tvg-logo="https://resizing.flixster.com/O8YTBP2vjHJ3TSchPQxGxratSYQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlZmE0ZWEzLWMwYTctNDdlNS1hMDc0LTViN2IzNWJlZTRiNy5qcGc=" group-title="VOD Full Movies (Foreign)", Alive (2020)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950841
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhjOWRmMGMtZjExNy00M2IxLWFmODQtM2I1MzBmZTcwOTgwXkEyXkFqcGdeQXVyNTg1MDQzMDU@._V1_FMjpg_UX1000_.jpg" group-title="VOD Full Movies (Foreign)", I Came By (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950842
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzZmYxOWYtM2FkOS00Mjk5LWE0MGMtNzQzNGRlYTcwZGVlXkEyXkFqcGdeQXVyMTUzNzc3NDAz._V1_.jpg" group-title="VOD Full Movies (Foreign)", Alienoid (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950843
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTYyZjVhYWMtYTU1Zi00M2UzLWIwNGMtOGFkYmRlODE0NGQ5XkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg" group-title="VOD Full Movies (Foreign)", Me Time (2022)
+https://m3u-editor.com/serve/tchtviptvplaylist/742950844
