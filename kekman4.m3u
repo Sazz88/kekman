@@ -705,11 +705,11 @@ https://m3u-editor.com/serve/tchtviptvplaylist/738058090
 https://m3u-editor.com/serve/tchtviptvplaylist/738058091
 #EXTINF: -1 tvg-id="CINEMO.ph" tvg-name="Cine Mo! Global" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="International Channels", CineMo! Global
 https://m3u-editor.com/serve/tchtviptvplaylist/738058092
-#EXTINF: -1 tvg-id="English.-.GMA.Pinoy.TV.hk" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="International Channels", GMA Pinoy TV
+#EXTINF: -1 tvg-id="GMA.Pinoy.TV.sg" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="International Channels", GMA Pinoy TV
 https://m3u-editor.com/serve/tchtviptvplaylist/738058093
-#EXTINF: -1 tvg-id="English.-.GMA.Life.TV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="International Channels", GMA Life TV
+#EXTINF: -1 tvg-id="GMA.Life.TV.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="International Channels", GMA Life TV
 https://m3u-editor.com/serve/tchtviptvplaylist/738058094
-#EXTINF: -1 tvg-id="English.-.GMA.News.TV.hk" tvg-name="GMA News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1200px-GMA_News_TV_Logo_Vector.svg.png" group-title="International Channels", GMA News TV
+#EXTINF: -1 tvg-id="GMA.News.TV.ph" tvg-name="GMA News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1200px-GMA_News_TV_Logo_Vector.svg.png" group-title="International Channels", GMA News TV
 https://m3u-editor.com/serve/tchtviptvplaylist/738058095
 #EXTINF: -1 tvg-id="Kapatid.TV5.(KTV5).us" tvg-name="Kapatid TV5" tvg-logo="https://i.imgur.com/ZqH2Rw8.png" group-title="International Channels", Kapatid TV5
 https://m3u-editor.com/serve/tchtviptvplaylist/738058096
