@@ -51,11 +51,11 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745421
 https://m3u-editor.com/serve/tchtviptvplaylist/743745422
 #EXTINF: -1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-name="ScreamFlix" tvg-chno="35" tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="Local Movies", ScreamFlix
 https://m3u-editor.com/serve/tchtviptvplaylist/743745423
-#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local Movies", Sari Sari
-https://m3u-editor.com/serve/tchtviptvplaylist/743745424
 #EXTINF: -1 tvg-id="ETC.ph" tvg-name="SolarFlix" tvg-chno="34" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local Movies", SolarFlix
 https://m3u-editor.com/serve/tchtviptvplaylist/743745425
-#EXTINF: -1 tvg-id="THRILL.ph" tvg-name="Thrill" tvg-chno="38" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="Local Movies", Thrill
+#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local Movies", Sari-Sari
+https://m3u-editor.com/serve/tchtviptvplaylist/743745424
+#EXTINF: -1 tvg-id="English.-.Thrill.hk" tvg-name="Thrill" tvg-chno="38" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="Local Movies", Thrill
 https://m3u-editor.com/serve/tchtviptvplaylist/743745426
 #EXTINF: -1 tvg-id="Tagalized.Movie.Channel.ph" tvg-name="Tagalized Movie Channel" tvg-chno="37" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Local Movies", TMC
 https://m3u-editor.com/serve/tchtviptvplaylist/743745427
@@ -427,10 +427,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745609
 https://m3u-editor.com/serve/tchtviptvplaylist/743745610
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="One News" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/512px-OneNewsPH_logo.svg.png" group-title="News & Information", One News
 https://m3u-editor.com/serve/tchtviptvplaylist/743745611
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="News & Information", SMNI
-https://m3u-editor.com/serve/tchtviptvplaylist/743745612
 #EXTINF: -1 tvg-id="PTV.ph" tvg-name="People's Television Network" tvg-chno="30" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="News & Information", PTV 4
 https://m3u-editor.com/serve/tchtviptvplaylist/743745613
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="News & Information", SMNI
+https://m3u-editor.com/serve/tchtviptvplaylist/743745612
 #EXTINF: -1 tvg-id="RT.France.fr" tvg-name="RT News" tvg-logo="https://i.imgur.com/SE4ZoBV.png" group-title="News & Information", RT News
 https://m3u-editor.com/serve/tchtviptvplaylist/743745614
 #EXTINF: -1 tvg-id="SkyNews.uk" tvg-logo="https://i.postimg.cc/g0b6Fpb3/640px-Sky-News-logo-svg.png" group-title="News & Information", Sky News
@@ -699,7 +699,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745747
 https://m3u-editor.com/serve/tchtviptvplaylist/743745748
 #EXTINF: -1 tvg-id="Cinema.One.Global.sg" tvg-name="Cinema One Global" tvg-logo="https://i.imgur.com/gd34tQu.png" group-title="International Channels", Cinema One Global
 https://m3u-editor.com/serve/tchtviptvplaylist/743745749
-#EXTINF: -1 tvg-id="CINEMO.ph" tvg-name="Cine Mo! Global" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="International Channels", CineMo! Global
+#EXTINF: -1 tvg-id="CINEMO!.ph" tvg-name="Cine Mo! Global" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="International Channels", CineMo! Global
 https://m3u-editor.com/serve/tchtviptvplaylist/743745750
 #EXTINF: -1 tvg-id="GMA.Pinoy.TV.sg" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="International Channels", GMA Pinoy TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745751
