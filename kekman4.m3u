@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="Kapamilya Channel" tvg-chno="15" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local TV", Kapamilya Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745407
-#EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="Kapamilya Channel HD" tvg-logo="https://i.imgur.com/WKJOdxJ.png" group-title="Local TV", Kapamilya Channel HD
+#EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="Kapamilya Channel HD" tvg-logo="https://i.imgur.com/TjL2JKm.png" group-title="Local TV", Kapamilya Channel HD
 https://m3u-editor.com/serve/tchtviptvplaylist/743745408
 #EXTINF: -1 tvg-id="PTV.ph" tvg-name="People's Television Network" tvg-chno="30" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV", PTV 4
 https://m3u-editor.com/serve/tchtviptvplaylist/743745613
@@ -79,7 +79,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745438
 https://m3u-editor.com/serve/tchtviptvplaylist/743745439
 #EXTINF: -1 tvg-id="Crime.+.Investigation.HD.sg" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Movies & Series", Crime + Investigation
 https://m3u-editor.com/serve/tchtviptvplaylist/743745440
-#EXTINF: -1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://i.imgur.com/aJGg6GW.png" group-title="Movies & Series", E!
+#EXTINF: -1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://i.imgur.com/wZb10vP.png" group-title="Movies & Series", E!
 https://m3u-editor.com/serve/tchtviptvplaylist/743745441
 #EXTINF: -1 tvg-id="EPIX.HDTV.(East).(EPIXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1280px-Epix_Logo_2019.svg.png" group-title="Movies & Series", Epix East
 https://m3u-editor.com/serve/tchtviptvplaylist/743745442
@@ -99,7 +99,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745448
 https://m3u-editor.com/serve/tchtviptvplaylist/743745449
 #EXTINF: -1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://i.imgur.com/ifjaC02.png" group-title="Movies & Series", Hallmark Movies & Mysteries
 https://m3u-editor.com/serve/tchtviptvplaylist/743745450
-#EXTINF: -1 tvg-id="HBO.HD.ph" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies & Series", HBO
+#EXTINF: -1 tvg-id="HBO.HD.sg" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies & Series", HBO
 https://m3u-editor.com/serve/tchtviptvplaylist/743745451
 #EXTINF: -1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://i.imgur.com/h7M4S4f.png" group-title="Movies & Series", HBO 2
 https://m3u-editor.com/serve/tchtviptvplaylist/743745452
@@ -109,7 +109,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745453
 https://m3u-editor.com/serve/tchtviptvplaylist/743745454
 #EXTINF: -1 tvg-id="HBO.SIGNATURE.HD.sg" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="Movies & Series", HBO Signature
 https://m3u-editor.com/serve/tchtviptvplaylist/743745455
-#EXTINF: -1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://i.imgur.com/1yByD6m.png" group-title="Movies & Series", HBO Comedy
+#EXTINF: -1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://i.imgur.com/l4EBKxX.png" group-title="Movies & Series", HBO Comedy
 https://m3u-editor.com/serve/tchtviptvplaylist/743745456
 #EXTINF: -1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://i.imgur.com/p8kCD3r.png" group-title="Movies & Series", HBO Zone
 https://m3u-editor.com/serve/tchtviptvplaylist/743745457
@@ -455,7 +455,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745622
 https://m3u-editor.com/serve/tchtviptvplaylist/743745623
 #EXTINF: -1 tvg-id="English.-.NHK.WORLD-JAPAN.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="Foreign Channels", NHK World Japan
 https://m3u-editor.com/serve/tchtviptvplaylist/743745624
-#EXTINF: -1 tvg-id="tvN.HD.sg" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Foreign Channels", tvN
+#EXTINF: -1 tvg-id="tvN.HD.sg" tvg-logo="https://i.imgur.com/lY1BAUH.png" group-title="Foreign Channels", tvN
 https://m3u-editor.com/serve/tchtviptvplaylist/743745625
 #EXTINF: -1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Foreign Channels", tvN Movies
 https://m3u-editor.com/serve/tchtviptvplaylist/743745626
@@ -467,7 +467,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745628
 https://m3u-editor.com/serve/tchtviptvplaylist/743745629
 #EXTINF: -1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-chno="22" tvg-logo="https://i.imgur.com/4o1ATUQ.png" group-title="Kids TV", Anime All Day
 https://m3u-editor.com/serve/tchtviptvplaylist/743745630
-#EXTINF: -1 tvg-id="BabyFirst.TV.(BABY1).us" tvg-logo="https://i.postimg.cc/mkPzLhZ3/01.png" group-title="Kids TV", Baby First
+#EXTINF: -1 tvg-id="BabyFirst.TV.(BABY1).us" tvg-logo="https://imgur.com/6cqDpEl.png" group-title="Kids TV", Baby First
 https://m3u-editor.com/serve/tchtviptvplaylist/743745631
 #EXTINF: -1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids TV", Baby TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745632
@@ -489,7 +489,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745640
 https://m3u-editor.com/serve/tchtviptvplaylist/743745641
 #EXTINF: -1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-chno="29" tvg-logo="https://i.imgur.com/DZkZbDo.png" group-title="Kids TV", CONtv Anime
 https://m3u-editor.com/serve/tchtviptvplaylist/743745642
-#EXTINF: -1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel" tvg-chno="30" tvg-logo="https://imgur.com/YeKOSsm.png" group-title="Kids TV", Disney Channel
+#EXTINF: -1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel" tvg-chno="30" tvg-logo="https://i.imgur.com/gAMh5Ls.png" group-title="Kids TV", Disney Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745643
 #EXTINF: -1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Kids TV", Disney Junior
 https://m3u-editor.com/serve/tchtviptvplaylist/743745644
@@ -501,9 +501,9 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745646
 https://m3u-editor.com/serve/tchtviptvplaylist/743745647
 #EXTINF: -1 tvg-id="6239cfd6530d0100086a9930" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids TV", Moonbug Kids
 https://m3u-editor.com/serve/tchtviptvplaylist/743745648
-#EXTINF: -1 tvg-id="Nickelodeon.ph" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="Kids TV", Nickelodeon
+#EXTINF: -1 tvg-id="Nickelodeon.HD.sg" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="Kids TV", Nickelodeon
 https://m3u-editor.com/serve/tchtviptvplaylist/743745649
-#EXTINF: -1 tvg-id="NICK.JR..ph" tvg-logo="https://i.imgur.com/qXy3RMn.png" group-title="Kids TV", Nick Jr.
+#EXTINF: -1 tvg-id="Nick.Jr.HD.sg" tvg-logo="https://i.imgur.com/qXy3RMn.png" group-title="Kids TV", Nick Jr.
 https://m3u-editor.com/serve/tchtviptvplaylist/743745650
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nick Jr. Too" tvg-logo="https://imgur.com/ACCuXvw.png" group-title="Kids TV", Nick Jr. Too
 https://m3u-editor.com/serve/tchtviptvplaylist/743745651
@@ -523,7 +523,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745657
 https://m3u-editor.com/serve/tchtviptvplaylist/743745658
 #EXTINF: -1 tvg-id="5f0d668b872e4400073acc68" tvg-name="Teen Nick" tvg-logo="https://imgur.com/9G1CH37.png" group-title="Kids TV", Teen Nick
 https://m3u-editor.com/serve/tchtviptvplaylist/743745659
-#EXTINF: -1 tvg-id="ToonamiAftermathEast.us" tvg-name="Toonami Aftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png" group-title="Kids TV", Toonami Aftermath
+#EXTINF: -1 tvg-id="Toonami.fr" tvg-name="Toonami Aftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png" group-title="Kids TV", Toonami Aftermath
 https://m3u-editor.com/serve/tchtviptvplaylist/743745660
 #EXTINF: -1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-logo="https://imgur.com/FmIYdkg.png" group-title="Kids TV", Universal Kids
 https://m3u-editor.com/serve/tchtviptvplaylist/743745661
