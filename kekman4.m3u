@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="Kapamilya Channel" tvg-chno="15" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local TV", Kapamilya Channel
+#EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-name="Kapamilya Channel" tvg-chno="15" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local TV", Kapamilya Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745407
 #EXTINF: -1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="Kapamilya Channel HD" tvg-logo="https://i.imgur.com/TjL2JKm.png" group-title="Local TV", Kapamilya Channel HD
 https://m3u-editor.com/serve/tchtviptvplaylist/743745408
@@ -113,7 +113,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745456
 https://m3u-editor.com/serve/tchtviptvplaylist/743745457
 #EXTINF: -1 tvg-id="HITS.HD.sg" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies & Series", Hits
 https://m3u-editor.com/serve/tchtviptvplaylist/743745458
-#EXTINF: -1 tvg-id="HITS.MOVIES.HD.sg" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="Movies & Series", Hits Movies
+#EXTINF: -1 tvg-id="HITS.MOVIES.HD.sg" tvg-logo="https://i.imgur.com/5FRdMCx.png" group-title="Movies & Series", HITS Movies
 https://m3u-editor.com/serve/tchtviptvplaylist/743745459
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://imgur.com/0ZZ2hCL.png" group-title="Movies & Series", Lotus Macau
 https://m3u-editor.com/serve/tchtviptvplaylist/743745460
@@ -247,7 +247,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743743828
 https://m3u-editor.com/serve/tchtviptvplaylist/743743829
 #EXTINF: -1 tvg-id="FASHION.TV.ph" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment", Fashion TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745531
-#EXTINF: -1 tvg-id="FOOD.NETWORK.HD.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="Lifestyle & Entertainment", Food Network
+#EXTINF: -1 tvg-id="FOOD.NETWORK.HD.ph" tvg-logo="https://imgur.com/W66WOyA.png" group-title="Lifestyle & Entertainment", Food Network
 https://m3u-editor.com/serve/tchtviptvplaylist/743745532
 #EXTINF: -1 tvg-id="62e90e8cb05d2b0007f10a61" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="Lifestyle & Entertainment", Game Show Network
 https://m3u-editor.com/serve/tchtviptvplaylist/743743835
@@ -271,10 +271,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743743837
 https://m3u-editor.com/serve/tchtviptvplaylist/743745542
 #EXTINF: -1 tvg-id="Telenovela.Channel.ph" tvg-name="TeleNovela Channel" tvg-chno="42" tvg-logo="https://i.imgur.com/jtHJgKR.png" group-title="Lifestyle & Entertainment", TeleNovela Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745543
-#EXTINF: -1 tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Lifestyle & Entertainment", TechStorm
-https://m3u-editor.com/serve/tchtviptvplaylist/743743842
 #EXTINF: -1 tvg-id="English.-.Travel.Channel.hk" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Lifestyle & Entertainment", Travel Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745548
+#EXTINF: -1 tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Lifestyle & Entertainment", TechStorm
+https://m3u-editor.com/serve/tchtviptvplaylist/743743842
 #EXTINF: -1 tvg-id="5d40bebc5e3d2750a2239d7e" tvg-name="TV Land" tvg-logo="https://imgur.com/SdHhMNz.png" group-title="Lifestyle & Entertainment", TV Land
 https://m3u-editor.com/serve/tchtviptvplaylist/743745549
 #EXTINF: -1 tvg-id="The.Q.in" tvg-name="The CW West" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment", The CW
@@ -365,9 +365,9 @@ https://m3u-editor.com/serve/tchtviptvplaylist/746152133
 https://m3u-editor.com/serve/tchtviptvplaylist/746152134
 #EXTINF: -1 tvg-id="English.-.DMAX.hk" tvg-logo="https://i.imgur.com/T2rGObN.png" group-title="Science / Educational & Documentaries", DMAX
 https://m3u-editor.com/serve/tchtviptvplaylist/743745582
-#EXTINF: -1 tvg-id="English.-.HISTORY.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Science / Educational & Documentaries", History
+#EXTINF: -1 tvg-id="English.-.HISTORY.hk" tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="Science / Educational & Documentaries", History
 https://m3u-editor.com/serve/tchtviptvplaylist/743745583
-#EXTINF: -1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Science / Educational & Documentaries", History 2
+#EXTINF: -1 tvg-id="Sky.History2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Science / Educational & Documentaries", History 2
 https://m3u-editor.com/serve/tchtviptvplaylist/743745584
 #EXTINF: -1 tvg-id="Love.Nature.(NATUR).ca" tvg-logo="https://i.imgur.com/NtZS7bN.png" group-title="Science / Educational & Documentaries", Love Nature
 https://m3u-editor.com/serve/tchtviptvplaylist/743745585
@@ -379,7 +379,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745587
 https://m3u-editor.com/serve/tchtviptvplaylist/743745592
 #EXTINF: -1 tvg-id="Reality.Kings.(Dish).(RKTV).us" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/1VzUjDC.png" group-title="Science / Educational & Documentaries", Real Stories
 https://m3u-editor.com/serve/tchtviptvplaylist/743745591
-#EXTINF: -1 tvg-id="Smithsonian.Channel.Canada.(SMITH).ca" tvg-logo="https://i.imgur.com/h2AEQWZ.png" group-title="Science / Educational & Documentaries", Smithsonian Channel
+#EXTINF: -1 tvg-id="Smithsonian.Channel.HD.sg" tvg-logo="https://i.imgur.com/h2AEQWZ.png" group-title="Science / Educational & Documentaries", Smithsonian Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745593
 #EXTINF: -1 tvg-id="ABXPLORE.fr" tvg-name="Xplore" tvg-logo="https://i.imgur.com/t0aMffA.png" group-title="Science / Educational & Documentaries", Xplore
 https://m3u-editor.com/serve/tchtviptvplaylist/743745594
