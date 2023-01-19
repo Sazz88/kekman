@@ -31,8 +31,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745412
 https://m3u-editor.com/serve/tchtviptvplaylist/743745413
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local TV", ALLTV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745399
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RJ TV" tvg-logo="https://i.imgur.com/iAE0WKr.png" group-title="Local TV", RJTV
-https://m3u-editor.com/serve/tchtviptvplaylist/743745414
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies", Cinema One
 https://m3u-editor.com/serve/tchtviptvplaylist/743745418
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-name="Cine Mo!" tvg-chno="5" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="Local Movies", Cine Mo!
@@ -241,62 +239,52 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745519
 https://m3u-editor.com/serve/tchtviptvplaylist/743745520
 #EXTINF: -1 tvg-id="WARNER.TV.HD.ph" tvg-logo="https://i.imgur.com/33QyRzo.png" group-title="Movies & Series", Warner TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745521
-#EXTINF: -1 tvg-id="ABC.Spark.HDTV.(HABCS).ca" tvg-name="ABC" tvg-logo="https://i.imgur.com/al9Ly6O.png" group-title="Lifestyle & Entertainment", ABC East
-https://m3u-editor.com/serve/tchtviptvplaylist/743745522
-#EXTINF: -1 tvg-id="English.-.Asian.Food.Network.hk" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Lifestyle & Entertainment", Asian Food Network
+#EXTINF: -1 tvg-id="English.-.Asian.Food.Network.hk" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Lifestyle & Entertainment", AFN Singapore
 https://m3u-editor.com/serve/tchtviptvplaylist/743745523
-#EXTINF: -1 tvg-id="5fb5844bf5514d0007945bda" tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Lifestyle & Entertainment", BBC Food
-https://m3u-editor.com/serve/tchtviptvplaylist/743745524
-#EXTINF: -1 tvg-id="BBC.Lifestyle.HD.sg" tvg-logo="https://i.imgur.com/uoLLkjm.png" group-title="Lifestyle & Entertainment", BBC Lifestyle
-https://m3u-editor.com/serve/tchtviptvplaylist/743745525
-#EXTINF: -1 tvg-id="5fb5836fe745b600070fc743" tvg-name="BBC Home" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Lifestyle & Entertainment", BBC Home
-https://m3u-editor.com/serve/tchtviptvplaylist/743745526
-#EXTINF: -1 tvg-id="Court.TV.uk" tvg-name="Court TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb1207.png" group-title="Lifestyle & Entertainment", Court TV
-https://m3u-editor.com/serve/tchtviptvplaylist/743745527
-#EXTINF: -1 tvg-id="5ef0fbed39ff730007383a69" tvg-name="Dabl" tvg-logo="https://i.imgur.com/0EbItrr.png" group-title="Lifestyle & Entertainment", Dabl
-https://m3u-editor.com/serve/tchtviptvplaylist/743745528
-#EXTINF: -1 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiOne-Logo-Web.png" group-title="Lifestyle & Entertainment", Dubai One
-https://m3u-editor.com/serve/tchtviptvplaylist/743745529
-#EXTINF: -1 tvg-id="554158e864526b29254ff105" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/Y8JBfrT.png" group-title="Lifestyle & Entertainment", FailArmy
-https://m3u-editor.com/serve/tchtviptvplaylist/743745530
+#EXTINF: -1 tvg-id="Adult.Swim.(ADSM).ca" tvg-name="Adult Swim" tvg-logo="https://imgur.com/OENpG0D.png" group-title="Lifestyle & Entertainment", Adult Swim
+https://m3u-editor.com/serve/tchtviptvplaylist/743743828
+#EXTINF: -1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/mXrYHXF.png" group-title="Lifestyle & Entertainment", Bravo
+https://m3u-editor.com/serve/tchtviptvplaylist/743743829
 #EXTINF: -1 tvg-id="FASHION.TV.ph" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment", Fashion TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745531
 #EXTINF: -1 tvg-id="FOOD.NETWORK.HD.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="Lifestyle & Entertainment", Food Network
 https://m3u-editor.com/serve/tchtviptvplaylist/743745532
-#EXTINF: -1 tvg-id="FOX.ph" tvg-name="Fox" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="Lifestyle & Entertainment", FOX TV
-https://m3u-editor.com/serve/tchtviptvplaylist/743745533
+#EXTINF: -1 tvg-id="62e90e8cb05d2b0007f10a61" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="Lifestyle & Entertainment", Game Show Network
+https://m3u-editor.com/serve/tchtviptvplaylist/743743835
+#EXTINF: -1 tvg-id="62e90e8cb05d2b0007f10a61" tvg-name="Game Show Central" tvg-logo="https://i.imgur.com/JBYAgpT.png" group-title="Lifestyle & Entertainment", Game Show Central
+https://m3u-editor.com/serve/tchtviptvplaylist/743743834
 #EXTINF: -1 tvg-id="5c5c47f3662f6b3c476fc03e" tvg-name="Gusto TV" tvg-logo="https://i.imgur.com/NG8hVoI.png" group-title="Lifestyle & Entertainment", Gusto TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745534
 #EXTINF: -1 tvg-id="English.-.HGTV.hk" tvg-logo="https://i.imgur.com/6Z4gt02.png" group-title="Lifestyle & Entertainment", HGTV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745535
+#EXTINF: -1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-name="IFC" tvg-logo="https://imgur.com/Uh7RW66.png" group-title="Lifestyle & Entertainment", IFC
+https://m3u-editor.com/serve/tchtviptvplaylist/743743844
 #EXTINF: -1 tvg-id="Lifetime.HD.sg" tvg-logo="https://i.imgur.com/nFVKSw8.png" group-title="Lifestyle & Entertainment", Lifetime
 https://m3u-editor.com/serve/tchtviptvplaylist/743745536
 #EXTINF: -1 tvg-id="Luxe.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" group-title="Lifestyle & Entertainment", Luxe TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745537
-#EXTINF: -1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-name="Magnolia Network" tvg-logo="https://i.imgur.com/ZVmal9T.png" group-title="Lifestyle & Entertainment", Magnolia Network
-https://m3u-editor.com/serve/tchtviptvplaylist/743745538
 #EXTINF: -1 tvg-id="METRO.CHANNEL.HD.ph" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Lifestyle & Entertainment", Metro Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745539
-#EXTINF: -1 tvg-id="CNBC.uk" tvg-name="NBC" tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="Lifestyle & Entertainment", NBC East
-https://m3u-editor.com/serve/tchtviptvplaylist/743745540
-#EXTINF: -1 tvg-id="5f15e181520cfa000771ce79" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/HyrsDmz.png" group-title="Lifestyle & Entertainment", Stories by AMC
-https://m3u-editor.com/serve/tchtviptvplaylist/743745541
+#EXTINF: -1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://i.imgur.com/zs6lSxN.png" group-title="Lifestyle & Entertainment", OWN Network
+https://m3u-editor.com/serve/tchtviptvplaylist/743743837
 #EXTINF: -1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-chno="40" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Lifestyle & Entertainment", TAP TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745542
 #EXTINF: -1 tvg-id="Telenovela.Channel.ph" tvg-name="TeleNovela Channel" tvg-chno="42" tvg-logo="https://i.imgur.com/jtHJgKR.png" group-title="Lifestyle & Entertainment", TeleNovela Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745543
-#EXTINF: -1 tvg-id="The.Q.in" tvg-name="The CW West" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment", The CW
-https://m3u-editor.com/serve/tchtviptvplaylist/743745544
-#EXTINF: -1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/dX6eGIu.png" group-title="Lifestyle & Entertainment", The Pet Collective
-https://m3u-editor.com/serve/tchtviptvplaylist/743745545
-#EXTINF: -1 tvg-id="ThePreviewChannel.us" tvg-name="The Preview Channel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/previewchannel_logo_dark_v2.png" group-title="Lifestyle & Entertainment", The Preview Channel
-https://m3u-editor.com/serve/tchtviptvplaylist/743745546
-#EXTINF: -1 tvg-id="English.-.TLC.hk" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="Lifestyle & Entertainment", TLC
-https://m3u-editor.com/serve/tchtviptvplaylist/743745547
+#EXTINF: -1 tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Lifestyle & Entertainment", TechStorm
+https://m3u-editor.com/serve/tchtviptvplaylist/743743842
 #EXTINF: -1 tvg-id="English.-.Travel.Channel.hk" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Lifestyle & Entertainment", Travel Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745548
 #EXTINF: -1 tvg-id="5d40bebc5e3d2750a2239d7e" tvg-name="TV Land" tvg-logo="https://imgur.com/SdHhMNz.png" group-title="Lifestyle & Entertainment", TV Land
 https://m3u-editor.com/serve/tchtviptvplaylist/743745549
+#EXTINF: -1 tvg-id="The.Q.in" tvg-name="The CW West" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment", The CW
+https://m3u-editor.com/serve/tchtviptvplaylist/743745544
+#EXTINF: -1 tvg-id="English.-.TLC.hk" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="Lifestyle & Entertainment", TLC
+https://m3u-editor.com/serve/tchtviptvplaylist/743745547
+#EXTINF: -1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Lifestyle & Entertainment", TNT
+https://m3u-editor.com/serve/tchtviptvplaylist/743743841
+#EXTINF: -1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS" tvg-logo="https://imgur.com/KK0ehXU.png" group-title="Lifestyle & Entertainment", TBS
+https://m3u-editor.com/serve/tchtviptvplaylist/743743843
 #EXTINF: -1 tvg-id="AsianCrush.us" tvg-name="Asian Crush" tvg-logo="https://i.imgur.com/v0fJelc.png" group-title="Korean Entertainment", Asian Crush
 https://m3u-editor.com/serve/tchtviptvplaylist/743745550
 #EXTINF: -1 tvg-id="CCTV4Asia.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CCTV-4_2001.png/revision/latest?cb=20220120183915" group-title="Korean Entertainment", CCTV 4
@@ -363,7 +351,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745580
 https://m3u-editor.com/serve/tchtviptvplaylist/743745581
 #EXTINF: -1 tvg-id="English.-.National.Geographic.hk" tvg-logo="https://i.imgur.com/T9xDiWf.png" group-title="Science / Educational & Documentaries", National Geographic
 https://m3u-editor.com/serve/tchtviptvplaylist/743745588
-#EXTINF: -1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Science / Educational & Documentaries", Nat Geo Wild
+#EXTINF: -1 tvg-id="NAT.GEO.WILD.HD.ph" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Science / Educational & Documentaries", Nat Geo Wild
 https://m3u-editor.com/serve/tchtviptvplaylist/743745589
 #EXTINF: -1 tvg-id="English.-.Outdoor.Channel.hk" tvg-logo="https://i.imgur.com/EuWrRpn.png" group-title="Science / Educational & Documentaries", Outdoor Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745590
@@ -497,8 +485,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745644
 https://m3u-editor.com/serve/tchtviptvplaylist/743745645
 #EXTINF: -1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://m3u-editor.com/storage/channel-logos/eac784f0-8780-11ed-a695-bb0fda17b92d/4126231/732171653.png" group-title="Kids TV", Discovery Family
 https://m3u-editor.com/serve/tchtviptvplaylist/743745646
-#EXTINF: -1 tvg-id="DreamWorks.Channel.HD.sg" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids TV", DreamWorks Channel
+#EXTINF: -1 tvg-id="DREAMWORKS.HD.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids TV", DreamWorks Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745647
+#EXTINF: -1 tvg-id="DreamWorks.Channel.HD.sg" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/ex2CjzR.png" group-title="Kids TV", DreamWorks Channel HD
+https://m3u-editor.com/serve/tchtviptvplaylist/746241259
 #EXTINF: -1 tvg-id="6239cfd6530d0100086a9930" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids TV", Moonbug Kids
 https://m3u-editor.com/serve/tchtviptvplaylist/743745648
 #EXTINF: -1 tvg-id="Nickelodeon.HD.sg" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="Kids TV", Nickelodeon
@@ -573,6 +563,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745675
 https://m3u-editor.com/serve/tchtviptvplaylist/743745678
 #EXTINF: -1 tvg-id="English.-.beIN.SPORTS.1.hk" tvg-logo="https://imgur.com/FHAKPCu.png" group-title="Sports TV", beIN Sports 1
 https://m3u-editor.com/serve/tchtviptvplaylist/743745689
+#EXTINF: -1 tvg-id="BEIN.SPORTS.2.HD.ph" tvg-logo="https://i.imgur.com/wZwSXVO.png" group-title="Sports TV", beIN Sports 2
+https://m3u-editor.com/serve/tchtviptvplaylist/746241267
 #EXTINF: -1 tvg-id="English.-.beIN.SPORTS.3.hk" tvg-logo="https://imgur.com/1MCiQfV.png" group-title="Sports TV", beIN Sports 3
 https://m3u-editor.com/serve/tchtviptvplaylist/743745690
 #EXTINF: -1 tvg-id="EUROSPORT.ph" tvg-logo="https://i.imgur.com/IdyF5p0.png" group-title="Sports TV", Eurosport
@@ -581,8 +573,12 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745703
 https://m3u-editor.com/serve/tchtviptvplaylist/743745700
 #EXTINF: -1 tvg-id="English.-.FIGHT.SPORTS.hk" tvg-logo="https://imgur.com/UJaGoqV.png" group-title="Sports TV", Fight Sports
 https://m3u-editor.com/serve/tchtviptvplaylist/743745706
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Horse Racing" tvg-logo="https://i.imgur.com/gKdAuO0.png" group-title="Sports TV", Horse Racing
+https://m3u-editor.com/serve/tchtviptvplaylist/743745712
 #EXTINF: -1 tvg-id="NBA.TV.HD.sg" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Sports TV", NBA TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745716
+#EXTINF: -1 tvg-id="NBC.(KULR).Billings,.MT.us" tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/mW1Fwx4.png" group-title="Sports TV", NBC Golf Channel
+https://m3u-editor.com/serve/tchtviptvplaylist/743745718
 #EXTINF: -1 tvg-id="NBA.TV.HD.sg" tvg-name="NBA TV Philippines" tvg-chno="20" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="Sports TV", NBA TV Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/743745717
 #EXTINF: -1 tvg-id="ONE.SPORTS.ph" tvg-name="One Sports" tvg-chno="23" tvg-logo="https://i.imgur.com/FJfuQDi.png" group-title="Sports TV", One Sports
@@ -599,6 +595,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745740
 https://m3u-editor.com/serve/tchtviptvplaylist/743745741
 #EXTINF: -1 tvg-id="TAPSPORTS.ph" tvg-name="TAP Sports" tvg-chno="41" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Sports TV", TAP Sports
 https://m3u-editor.com/serve/tchtviptvplaylist/743745742
+#EXTINF: -1 tvg-id="TRACE.Sport.Stars.fr" tvg-name="TraceSports" tvg-logo="https://imgur.com/rR5SYHY.png" group-title="Sports TV", Trace Sports Stars
+https://m3u-editor.com/serve/tchtviptvplaylist/743745744
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UAAP Varsity Channel" tvg-chno="43" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Sports TV", UAAP Varsity Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745745
 #EXTINF: -1 tvg-id="Premier.Sports.sg" tvg-name="Premier Sports" tvg-chno="26" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports TV", Premier Sports
@@ -661,16 +659,12 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745709
 https://m3u-editor.com/serve/tchtviptvplaylist/743745710
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/9RThOrN.png" group-title="Sports TV", Horse & Country
 https://m3u-editor.com/serve/tchtviptvplaylist/743745711
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Horse Racing" tvg-logo="https://i.imgur.com/gKdAuO0.png" group-title="Sports TV", Horse Racing
-https://m3u-editor.com/serve/tchtviptvplaylist/743745712
 #EXTINF: -1 tvg-id="561c5f613286e48904fb2677" tvg-name="IGN1" tvg-logo="https://i.imgur.com/Kdi79vV.png" group-title="Sports TV", IGN1
 https://m3u-editor.com/serve/tchtviptvplaylist/743745713
 #EXTINF: -1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports TV", MLB Network
 https://m3u-editor.com/serve/tchtviptvplaylist/743745714
 #EXTINF: -1 tvg-id="NFLNetwork.us" tvg-logo="https://i.imgur.com/gXAcSVi.png" group-title="Sports TV", NFL Network
 https://m3u-editor.com/serve/tchtviptvplaylist/743745715
-#EXTINF: -1 tvg-id="NBC.(KULR).Billings,.MT.us" tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/mW1Fwx4.png" group-title="Sports TV", NBC Golf Channel
-https://m3u-editor.com/serve/tchtviptvplaylist/743745718
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports TV", RedBull TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745725
 #EXTINF: -1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports" tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="Sports TV", Sky Sports
@@ -703,8 +697,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745738
 https://m3u-editor.com/serve/tchtviptvplaylist/743745739
 #EXTINF: -1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="Sports TV", Tennis Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745743
-#EXTINF: -1 tvg-id="TRACE.Sport.Stars.fr" tvg-name="TraceSports" tvg-logo="https://imgur.com/rR5SYHY.png" group-title="Sports TV", Trace Sports Stars
-https://m3u-editor.com/serve/tchtviptvplaylist/743745744
 #EXTINF: -1 tvg-id="FightBoxHD.us" tvg-logo="https://i.imgur.com/TzNu0lR.png" group-title="Sports TV", UFC FightPass
 https://m3u-editor.com/serve/tchtviptvplaylist/743745746
 #EXTINF: -1 tvg-id="WWENetwork.us" tvg-logo="https://www.linkpicture.com/q/wwe.png" group-title="Sports TV", WWE Network
