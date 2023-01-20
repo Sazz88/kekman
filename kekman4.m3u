@@ -63,16 +63,16 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745431
 https://m3u-editor.com/serve/tchtviptvplaylist/743745432
 #EXTINF: -1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://i.imgur.com/mlUakGY.png" group-title="Movies & Series", ActionMax
 https://m3u-editor.com/serve/tchtviptvplaylist/743745433
-#EXTINF: -1 tvg-id="CCM.sg" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies & Series", Celestial Classic Movies
-https://m3u-editor.com/serve/tchtviptvplaylist/743745434
-#EXTINF: -1 tvg-id="Celestial.Movies.HD.sg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies & Series", Celestial Movies
-https://m3u-editor.com/serve/tchtviptvplaylist/743745435
 #EXTINF: -1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://i.imgur.com/M4SNibs.png" group-title="Movies & Series", CineLife
 https://m3u-editor.com/serve/tchtviptvplaylist/743745436
 #EXTINF: -1 tvg-id="Cinemax.HD.sg" tvg-logo="https://i.imgur.com/r8qzNiy.png" group-title="Movies & Series", Cinemax
 https://m3u-editor.com/serve/tchtviptvplaylist/743745437
 #EXTINF: -1 tvg-id="CINEMAWORLD.HD.sg" tvg-logo="https://i.imgur.com/WeOSYdz.png" group-title="Movies & Series", Cinema World
 https://m3u-editor.com/serve/tchtviptvplaylist/743745438
+#EXTINF: -1 tvg-id="Celestial.Movies.HD.sg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies & Series", Celestial Movies
+https://m3u-editor.com/serve/tchtviptvplaylist/743745435
+#EXTINF: -1 tvg-id="CCM.sg" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies & Series", CCM
+https://m3u-editor.com/serve/tchtviptvplaylist/743745434
 #EXTINF: -1 tvg-id="61c0989431084d0007eab12d" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Movies & Series", Comedy Central
 https://m3u-editor.com/serve/tchtviptvplaylist/743745439
 #EXTINF: -1 tvg-id="Crime.+.Investigation.HD.sg" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Movies & Series", Crime + Investigation
