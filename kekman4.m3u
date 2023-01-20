@@ -17,7 +17,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745398
 https://m3u-editor.com/serve/tchtviptvplaylist/743745404
 #EXTINF: -1 tvg-id="DZMM.TELERADYO.ph" tvg-name="TeleRadyo" tvg-chno="39" tvg-logo="https://i.imgur.com/G36wUtQ.png" group-title="Local TV", TeleRadyo
 https://m3u-editor.com/serve/tchtviptvplaylist/743745416
-#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="Local TV", CNN Philippines
+#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/O6OSPOo.png" group-title="Local TV", CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/743745401
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745406
@@ -31,7 +31,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745412
 https://m3u-editor.com/serve/tchtviptvplaylist/743745413
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local TV", ALLTV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745399
-#EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies", Cinema One
+#EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="4" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="Local Movies", Cinema One
 https://m3u-editor.com/serve/tchtviptvplaylist/743745418
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-name="Cine Mo!" tvg-chno="5" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="Local Movies", Cine Mo!
 https://m3u-editor.com/serve/tchtviptvplaylist/743745419
@@ -335,7 +335,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745572
 https://m3u-editor.com/serve/tchtviptvplaylist/743745573
 #EXTINF: -1 tvg-id="TheMovie.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43342.png" group-title="Korean Entertainment", The K-Pop
 https://m3u-editor.com/serve/tchtviptvplaylist/743745574
-#EXTINF: -1 tvg-id="Knowledge.Channel.ph" tvg-name="Knowledge Chdannel" tvg-chno="17" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="Science / Educational & Documentaries", Knowledge Channel
+#EXTINF: -1 tvg-id="Knowledge.Channel.ph" tvg-name="Knowledge Chdannel" tvg-chno="17" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Science / Educational & Documentaries", Knowledge Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745409
 #EXTINF: -1 tvg-id="English.-.Animal.Planet.hk" tvg-logo="https://i.imgur.com/KSrFJKN.png" group-title="Science / Educational & Documentaries", Animal Planet
 https://m3u-editor.com/serve/tchtviptvplaylist/743745575
