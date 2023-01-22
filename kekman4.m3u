@@ -19,18 +19,26 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745404
 https://m3u-editor.com/serve/tchtviptvplaylist/743745416
 #EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/O6OSPOo.png" group-title="Local TV", CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/743745401
+#EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Cine Cebu Television Network, Inc." tvg-logo="https://imgur.com/vdEpkTs.png" group-title="Local TV", CCTN 47
+https://m3u-editor.com/serve/tchtviptvplaylist/749301528
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745406
-#EXTINF: -1 tvg-id="Net25.ph" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
-https://m3u-editor.com/serve/tchtviptvplaylist/743745410
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/D5AaLfO.png" group-title="Local TV", BuKo Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745400
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PIE Channel" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV", PIE Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745412
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pep TV" tvg-chno="28" tvg-logo="https://i.imgur.com/FZtnTL2.png" group-title="Local TV", Pep TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745413
+#EXTINF: -1 tvg-id="Net25.ph" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
+https://m3u-editor.com/serve/tchtviptvplaylist/743745410
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/35TrDh4.png" group-title="Local TV", Beam TV
+https://m3u-editor.com/serve/tchtviptvplaylist/749301529
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local TV", ALLTV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745399
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RJ TV" tvg-logo="https://i.imgur.com/iAE0WKr.png" group-title="Local TV", RJTV
+https://m3u-editor.com/serve/tchtviptvplaylist/749301530
+#EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Kapamilya Online Live" tvg-logo="https://i.imgur.com/8YT2rMz.png" group-title="Local TV", Kapamilya Online Live
+https://m3u-editor.com/serve/tchtviptvplaylist/749301531
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="4" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="Local Movies", Cinema One
 https://m3u-editor.com/serve/tchtviptvplaylist/743745418
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-name="Cine Mo!" tvg-chno="5" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="Local Movies", Cine Mo!
@@ -403,7 +411,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745618
 https://m3u-editor.com/serve/tchtviptvplaylist/743745595
 #EXTINF: -1 tvg-id="Al.Jazeera.(English.-.North.America).(ALJAZEE).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News & Information", Al Jazeera
 https://m3u-editor.com/serve/tchtviptvplaylist/743745596
-#EXTINF: -1 tvg-id="BBC.World.News.HD.sg" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News & Information", BBC World News
+#EXTINF: -1 tvg-id="BBC.WORLD.NEWS.ph" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News & Information", BBC World News
 https://m3u-editor.com/serve/tchtviptvplaylist/743745598
 #EXTINF: -1 tvg-id="Bloomberg.Television.HD.sg" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News & Information", Bloomberg TV
 https://m3u-editor.com/serve/tchtviptvplaylist/743745599
@@ -485,7 +493,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/743745644
 https://m3u-editor.com/serve/tchtviptvplaylist/743745645
 #EXTINF: -1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://m3u-editor.com/storage/channel-logos/eac784f0-8780-11ed-a695-bb0fda17b92d/4126231/732171653.png" group-title="Kids TV", Discovery Family
 https://m3u-editor.com/serve/tchtviptvplaylist/743745646
-#EXTINF: -1 tvg-id="DREAMWORKS.HD.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids TV", DreamWorks Channel
+#EXTINF: -1 tvg-id="DreamWorks.Channel.HD.sg" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids TV", DreamWorks Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/743745647
 #EXTINF: -1 tvg-id="DreamWorks.Channel.HD.sg" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/ex2CjzR.png" group-title="Kids TV", DreamWorks Channel HD
 https://m3u-editor.com/serve/tchtviptvplaylist/746241259
