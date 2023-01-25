@@ -15,24 +15,36 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422436
 https://m3u-editor.com/serve/tchtviptvplaylist/749422437
 #EXTINF: -1 tvg-id="IBC.13.ph" tvg-name="Intercontinental Broadcasting Corporation" tvg-chno="12" tvg-logo="https://i.imgur.com/Org4yTu.png" group-title="Local TV", IBC 13
 https://m3u-editor.com/serve/tchtviptvplaylist/749422438
+#EXTINF: -1 tvg-id="ETC.ph" tvg-name="SolarFlix" tvg-chno="34" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local TV", SolarFlix
+https://m3u-editor.com/serve/tchtviptvplaylist/749422453
+#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local TV", Sari-Sari
+https://m3u-editor.com/serve/tchtviptvplaylist/749422459
 #EXTINF: -1 tvg-id="DZMM.TELERADYO.ph" tvg-name="TeleRadyo" tvg-chno="39" tvg-logo="https://i.imgur.com/G36wUtQ.png" group-title="Local TV", TeleRadyo
 https://m3u-editor.com/serve/tchtviptvplaylist/749422439
 #EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/O6OSPOo.png" group-title="Local TV", CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/749422440
 #EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Cine Cebu Television Network, Inc." tvg-logo="https://imgur.com/vdEpkTs.png" group-title="Local TV", CCTN 47
 https://m3u-editor.com/serve/tchtviptvplaylist/749422441
+#EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Radyo Bandilyo" tvg-logo="https://imgur.com/qKH1TSG.png" group-title="Local TV", DYWC Teleradyo
+https://m3u-editor.com/serve/tchtviptvplaylist/752364507
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/749422442
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/D5AaLfO.png" group-title="Local TV", BuKo Channel
-https://m3u-editor.com/serve/tchtviptvplaylist/749422443
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PIE Channel" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV", PIE Channel
-https://m3u-editor.com/serve/tchtviptvplaylist/749422444
 #EXTINF: -1 tvg-id="Net25.ph" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
 https://m3u-editor.com/serve/tchtviptvplaylist/749422445
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/ov72aSx.png" group-title="Local TV", TV Maria
+https://m3u-editor.com/serve/tchtviptvplaylist/752364510
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PIE Channel" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV", PIE Channel
+https://m3u-editor.com/serve/tchtviptvplaylist/749422444
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/D5AaLfO.png" group-title="Local TV", BuKo Channel
+https://m3u-editor.com/serve/tchtviptvplaylist/749422443
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/35TrDh4.png" group-title="Local TV", Beam TV
+https://m3u-editor.com/serve/tchtviptvplaylist/752364508
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local TV", ALLTV
 https://m3u-editor.com/serve/tchtviptvplaylist/749422446
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RJ TV" tvg-logo="https://i.imgur.com/iAE0WKr.png" group-title="Local TV", RJTV
 https://m3u-editor.com/serve/tchtviptvplaylist/749422447
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pep TV" tvg-logo="https://i.imgur.com/FZtnTL2.png" group-title="Local TV", Pep TV
+https://m3u-editor.com/serve/tchtviptvplaylist/752364509
 #EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Kapamilya Online Live" tvg-logo="https://i.imgur.com/8YT2rMz.png" group-title="Local TV", Kapamilya Online Live
 https://m3u-editor.com/serve/tchtviptvplaylist/749422448
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="4" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="Local Movies", Cinema One
@@ -43,8 +55,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422450
 https://m3u-editor.com/serve/tchtviptvplaylist/749422451
 #EXTINF: -1 tvg-id="Viva.Channel.ph" tvg-name="Viva Cinema" tvg-chno="45" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-title="Local Movies", Viva Cinema
 https://m3u-editor.com/serve/tchtviptvplaylist/749422452
-#EXTINF: -1 tvg-id="ETC.ph" tvg-name="SolarFlix" tvg-chno="34" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local Movies", SolarFlix
-https://m3u-editor.com/serve/tchtviptvplaylist/749422453
 #EXTINF: -1 tvg-id="Cinemax.HDTV.(West).(MAXHDW).us" tvg-name="ScreamFlix" tvg-chno="35" tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="Local Movies", ScreamFlix
 https://m3u-editor.com/serve/tchtviptvplaylist/749422454
 #EXTINF: -1 tvg-id="THRILL.ph" tvg-name="Thrill" tvg-chno="38" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="Local Movies", Thrill
@@ -55,8 +65,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422456
 https://m3u-editor.com/serve/tchtviptvplaylist/749422457
 #EXTINF: -1 tvg-id="English.-.Now.Baogu.Movies.hk" tvg-name="Jungo Pinoy" tvg-chno="7" tvg-logo="https://i.imgur.com/gHw2IP7.png" group-title="Local Movies", CineMundo Pinoy
 https://m3u-editor.com/serve/tchtviptvplaylist/749422458
-#EXTINF: -1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari" tvg-chno="33" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Local Movies", Sari-Sari
-https://m3u-editor.com/serve/tchtviptvplaylist/749422459
 #EXTINF: -1 tvg-id="Andflix.in" tvg-logo="https://i.imgur.com/3BU6Wsg.png" group-title="Movies & Series", &flix HD
 https://m3u-editor.com/serve/tchtviptvplaylist/749422460
 #EXTINF: -1 tvg-id="AndpriveHD.in" tvg-logo="https://i.imgur.com/lhSTeZk.png" group-title="Movies & Series", &privé HD
