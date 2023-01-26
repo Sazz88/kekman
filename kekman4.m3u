@@ -21,7 +21,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422453
 https://m3u-editor.com/serve/tchtviptvplaylist/749422459
 #EXTINF: -1 tvg-id="DZMM.TELERADYO.ph" tvg-name="TeleRadyo" tvg-chno="39" tvg-logo="https://i.imgur.com/G36wUtQ.png" group-title="Local TV", TeleRadyo
 https://m3u-editor.com/serve/tchtviptvplaylist/749422439
-#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/O6OSPOo.png" group-title="Local TV", CNN Philippines
+#EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Local TV", CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/749422440
 #EXTINF: -1 tvg-id="(no-tvg-id)" tvg-name="Cine Cebu Television Network, Inc." tvg-logo="https://imgur.com/vdEpkTs.png" group-title="Local TV", CCTN 47
 https://m3u-editor.com/serve/tchtviptvplaylist/749422441
@@ -29,6 +29,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422441
 https://m3u-editor.com/serve/tchtviptvplaylist/752364507
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/749422442
+#EXTINF: -1 tvg-id="METRO.CHANNEL.HD.ph" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Local TV", Metro Channel
+https://m3u-editor.com/serve/tchtviptvplaylist/749422565
 #EXTINF: -1 tvg-id="Net25.ph" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
 https://m3u-editor.com/serve/tchtviptvplaylist/749422445
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/ov72aSx.png" group-title="Local TV", TV Maria
@@ -275,8 +277,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/749422562
 https://m3u-editor.com/serve/tchtviptvplaylist/749422563
 #EXTINF: -1 tvg-id="Luxe.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" group-title="Lifestyle & Entertainment", Luxe TV
 https://m3u-editor.com/serve/tchtviptvplaylist/749422564
-#EXTINF: -1 tvg-id="METRO.CHANNEL.HD.ph" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Lifestyle & Entertainment", Metro Channel
-https://m3u-editor.com/serve/tchtviptvplaylist/749422565
 #EXTINF: -1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://i.imgur.com/zs6lSxN.png" group-title="Lifestyle & Entertainment", OWN Network
 https://m3u-editor.com/serve/tchtviptvplaylist/749422566
 #EXTINF: -1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-chno="40" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Lifestyle & Entertainment", TAP TV
