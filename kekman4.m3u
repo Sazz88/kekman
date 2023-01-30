@@ -9,7 +9,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441281
 https://m3u-editor.com/serve/tchtviptvplaylist/755441282
 #EXTINF: -1 tvg-id="GMA.7.ph" tvg-name="GMA" tvg-chno="10" tvg-logo="https://i.imgur.com/GFkcOaZ.png" group-title="Local TV", GMA
 https://m3u-editor.com/serve/tchtviptvplaylist/755441283
-#EXTINF: -1 tvg-id="GMA.News.TV.sa" tvg-name="GTV" tvg-chno="11" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="Local TV", GTV
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="GTV" tvg-chno="11" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="Local TV", GTV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441284
 #EXTINF: -1 tvg-id="A2Z.Channel.11.ph" tvg-name="A2Z" tvg-chno="1" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="Local TV", A2Z
 https://m3u-editor.com/serve/tchtviptvplaylist/755441285
@@ -29,7 +29,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441291
 https://m3u-editor.com/serve/tchtviptvplaylist/755441292
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441293
-#EXTINF: -1 tvg-id="METRO.CHANNEL.HD.ph" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Local TV", Metro Channel
+#EXTINF: -1 tvg-id="Metro.Channel.SD.ph" tvg-name="Metro Channel" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Local TV", Metro Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/755441294
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
 https://m3u-editor.com/serve/tchtviptvplaylist/755441295
@@ -357,7 +357,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441455
 https://m3u-editor.com/serve/tchtviptvplaylist/755441456
 #EXTINF: -1 tvg-id="DISCOVERY.ASIA.ph" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Science & Educational & Documentaries", Discovery Asia
 https://m3u-editor.com/serve/tchtviptvplaylist/755441457
-#EXTINF: -1 tvg-id="Discovery.Science.HD.sa" tvg-logo="https://i.imgur.com/l2ld3f1.png" group-title="Science & Educational & Documentaries", Discovery Science
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/l2ld3f1.png" group-title="Science & Educational & Documentaries", Discovery Science
 https://m3u-editor.com/serve/tchtviptvplaylist/755441458
 #EXTINF: -1 tvg-id="Discovery.Turbo.in" tvg-logo="https://i.imgur.com/QfyjIcA.png" group-title="Science & Educational & Documentaries", Discovery Turbo
 https://m3u-editor.com/serve/tchtviptvplaylist/755441459
