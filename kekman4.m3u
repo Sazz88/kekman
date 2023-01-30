@@ -253,15 +253,15 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441403
 https://m3u-editor.com/serve/tchtviptvplaylist/755441404
 #EXTINF: -1 tvg-id="SkyPremiere+1.uk" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="Movies & Series", Sky Cinema 11
 https://m3u-editor.com/serve/tchtviptvplaylist/755441405
-#EXTINF: -1 tvg-id="ASIAN.FOOD.NETWORK.HD.ph" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Lifestyle & Entertainment", AFN Singapore
+#EXTINF: -1 tvg-id="Asian.Food.Network.HD.my" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Lifestyle & Entertainment", AFN Singapore
 https://m3u-editor.com/serve/tchtviptvplaylist/755441406
 #EXTINF: -1 tvg-id="Adult.Swim.(ADSM).ca" tvg-name="Adult Swim" tvg-logo="https://imgur.com/OENpG0D.png" group-title="Lifestyle & Entertainment", Adult Swim
 https://m3u-editor.com/serve/tchtviptvplaylist/755441407
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/mXrYHXF.png" group-title="Lifestyle & Entertainment", Bravo
 https://m3u-editor.com/serve/tchtviptvplaylist/755441408
-#EXTINF: -1 tvg-id="FASHION.TV.ph" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment", Fashion TV
+#EXTINF: -1 tvg-id="Fashion.TV.HD.sa" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment", Fashion TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441409
-#EXTINF: -1 tvg-id="FOOD.NETWORK.HD.ph" tvg-logo="https://imgur.com/W66WOyA.png" group-title="Lifestyle & Entertainment", Food Network
+#EXTINF: -1 tvg-id="Food.Network.HD.my" tvg-logo="https://imgur.com/W66WOyA.png" group-title="Lifestyle & Entertainment", Food Network
 https://m3u-editor.com/serve/tchtviptvplaylist/755441410
 #EXTINF: -1 tvg-id="62e90e8cb05d2b0007f10a61" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="Lifestyle & Entertainment", Game Show Network
 https://m3u-editor.com/serve/tchtviptvplaylist/755441411
@@ -269,14 +269,12 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441411
 https://m3u-editor.com/serve/tchtviptvplaylist/755441412
 #EXTINF: -1 tvg-id="5c5c47f3662f6b3c476fc03e" tvg-name="Gusto TV" tvg-logo="https://i.imgur.com/NG8hVoI.png" group-title="Lifestyle & Entertainment", Gusto TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441413
-#EXTINF: -1 tvg-id="HGTV.HD.ph" tvg-logo="https://i.imgur.com/6Z4gt02.png" group-title="Lifestyle & Entertainment", HGTV
+#EXTINF: -1 tvg-id="HGTV.HD.my" tvg-logo="https://i.imgur.com/6Z4gt02.png" group-title="Lifestyle & Entertainment", HGTV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441414
 #EXTINF: -1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-name="IFC" tvg-logo="https://imgur.com/Uh7RW66.png" group-title="Lifestyle & Entertainment", IFC
 https://m3u-editor.com/serve/tchtviptvplaylist/755441415
 #EXTINF: -1 tvg-id="Lifetime.HD.sg" tvg-logo="https://i.imgur.com/nFVKSw8.png" group-title="Lifestyle & Entertainment", Lifetime
 https://m3u-editor.com/serve/tchtviptvplaylist/755441416
-#EXTINF: -1 tvg-id="Luxe.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" group-title="Lifestyle & Entertainment", Luxe TV
-https://m3u-editor.com/serve/tchtviptvplaylist/755441417
 #EXTINF: -1 tvg-id="The.Oprah.Winfrey.Network.Canada.(East).(OWN).ca" tvg-name="Oprah Winfrey Network" tvg-logo="https://i.imgur.com/zs6lSxN.png" group-title="Lifestyle & Entertainment", OWN Network
 https://m3u-editor.com/serve/tchtviptvplaylist/755441418
 #EXTINF: -1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-chno="40" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Lifestyle & Entertainment", TAP TV
@@ -287,11 +285,13 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441420
 https://m3u-editor.com/serve/tchtviptvplaylist/755441421
 #EXTINF: -1 tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Lifestyle & Entertainment", TechStorm
 https://m3u-editor.com/serve/tchtviptvplaylist/755441422
+#EXTINF: -1 tvg-id="TECH.STORM.ph" tvg-name="TechStorm" tvg-logo="https://imgur.com/JQK24zP.png" group-title="Lifestyle & Entertainment", TechStorm HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626238
 #EXTINF: -1 tvg-id="5d40bebc5e3d2750a2239d7e" tvg-name="TV Land" tvg-logo="https://imgur.com/SdHhMNz.png" group-title="Lifestyle & Entertainment", TV Land
 https://m3u-editor.com/serve/tchtviptvplaylist/755441423
 #EXTINF: -1 tvg-id="The.Q.in" tvg-name="The CW West" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment", The CW
 https://m3u-editor.com/serve/tchtviptvplaylist/755441424
-#EXTINF: -1 tvg-id="TLC.HD.ph" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="Lifestyle & Entertainment", TLC
+#EXTINF: -1 tvg-id="TLC.HD.my" tvg-logo="https://i.imgur.com/eVWucpL.png" group-title="Lifestyle & Entertainment", TLC
 https://m3u-editor.com/serve/tchtviptvplaylist/755441425
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="TNT" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Lifestyle & Entertainment", TNT
 https://m3u-editor.com/serve/tchtviptvplaylist/755441426
@@ -415,7 +415,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441484
 https://m3u-editor.com/serve/tchtviptvplaylist/755441485
 #EXTINF: -1 tvg-id="Al.Jazeera.(English.-.North.America).(ALJAZEE).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News & Information", Al Jazeera
 https://m3u-editor.com/serve/tchtviptvplaylist/755441486
-#EXTINF: -1 tvg-id="BBC.WORLD.NEWS.ph" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News & Information", BBC World News
+#EXTINF: -1 tvg-id="BBC.World.News.HD.my" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News & Information", BBC World News
 https://m3u-editor.com/serve/tchtviptvplaylist/755441487
 #EXTINF: -1 tvg-id="Bloomberg.Television.HD.sg" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News & Information", Bloomberg TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441488
@@ -423,9 +423,9 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441488
 https://m3u-editor.com/serve/tchtviptvplaylist/755441489
 #EXTINF: -1 tvg-id="CNBC.Asia.HD.my" tvg-name="CNBC" tvg-logo="https://i.imgur.com/BfAIco6.png" group-title="News & Information", CNBC Asia
 https://m3u-editor.com/serve/tchtviptvplaylist/755441490
-#EXTINF: -1 tvg-id="CNN.HD.ph" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnn.us.png" group-title="News & Information", CNN International
+#EXTINF: -1 tvg-id="CNN.HD.my" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnn.us.png" group-title="News & Information", CNN International
 https://m3u-editor.com/serve/tchtviptvplaylist/755441491
-#EXTINF: -1 tvg-id="Channel.NewsAsia.HD.sg" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News & Information", CNA
+#EXTINF: -1 tvg-id="Channel.NewsAsia.HD.sg" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News & Information", CNA Singapore
 https://m3u-editor.com/serve/tchtviptvplaylist/755441492
 #EXTINF: -1 tvg-id="DEUTSCHEWELLE.ph" tvg-logo="https://i.postimg.cc/bYSp7BpR/01.png" group-title="News & Information", Deutsche Welle
 https://m3u-editor.com/serve/tchtviptvplaylist/755441493
@@ -447,7 +447,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441500
 https://m3u-editor.com/serve/tchtviptvplaylist/755441501
 #EXTINF: -1 tvg-id="France.24.(North.America.–.English).(F24)..ec" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Foreign Channels", France 24
 https://m3u-editor.com/serve/tchtviptvplaylist/755441502
-#EXTINF: -1 tvg-id="KIX.HD.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Foreign Channels", KIX
+#EXTINF: -1 tvg-id="KIX.ng" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Foreign Channels", KIX
 https://m3u-editor.com/serve/tchtviptvplaylist/755441503
 #EXTINF: -1 tvg-id="K-PLUS.ph" tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-title="Foreign Channels", K+
 https://m3u-editor.com/serve/tchtviptvplaylist/755441504
@@ -473,6 +473,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441513
 https://m3u-editor.com/serve/tchtviptvplaylist/755441514
 #EXTINF: -1 tvg-id="Boomerang.HD.sg" tvg-name="Boomerang" tvg-chno="25" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids TV", Boomerang
 https://m3u-editor.com/serve/tchtviptvplaylist/755441515
+#EXTINF: -1 tvg-id="Boomerang.HD.sg" tvg-name="Boomerang Signapore HD" tvg-logo="https://imgur.com/Awjr12m.png" group-title="Kids TV", Boomerang HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626235
 #EXTINF: -1 tvg-id="Boomerang.HD.uk" tvg-name="Boomerang East" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids TV", Boomerang East
 https://m3u-editor.com/serve/tchtviptvplaylist/755441516
 #EXTINF: -1 tvg-id="CARTOON.NETWORK.ph" tvg-logo="https://i.imgur.com/YA86w8Q.png" group-title="Kids TV", Cartoon Network
@@ -487,7 +489,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441520
 https://m3u-editor.com/serve/tchtviptvplaylist/755441521
 #EXTINF: -1 tvg-id="CBBC.uk" tvg-name="CBBC" tvg-logo="https://imgur.com/FWWJDU3.png" group-title="Kids TV", CBBC
 https://m3u-editor.com/serve/tchtviptvplaylist/755441522
-#EXTINF: -1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-chno="29" tvg-logo="https://i.imgur.com/DZkZbDo.png" group-title="Kids TV", CONtv Anime
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="CONtv Anime" tvg-chno="29" tvg-logo="https://i.imgur.com/DZkZbDo.png" group-title="Kids TV", CONtv Anime
 https://m3u-editor.com/serve/tchtviptvplaylist/755441523
 #EXTINF: -1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel" tvg-chno="30" tvg-logo="https://i.imgur.com/gAMh5Ls.png" group-title="Kids TV", Disney Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/755441524
@@ -505,8 +507,12 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441529
 https://m3u-editor.com/serve/tchtviptvplaylist/755441530
 #EXTINF: -1 tvg-id="Nickelodeon.HD.sg" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="Kids TV", Nickelodeon
 https://m3u-editor.com/serve/tchtviptvplaylist/755441531
+#EXTINF: -1 tvg-id="NICKELODEON.HD.sg" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/ZgU3VgM.png" group-title="Kids TV", Nickelodeon HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626236
 #EXTINF: -1 tvg-id="Nick.Jr.HD.sg" tvg-logo="https://i.imgur.com/qXy3RMn.png" group-title="Kids TV", Nick Jr.
 https://m3u-editor.com/serve/tchtviptvplaylist/755441532
+#EXTINF: -1 tvg-id="NICK.JR.hd.sg" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/14z7yKN.png" group-title="Kids TV", Nick Jr. HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626237
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Nick Jr. Too" tvg-logo="https://imgur.com/ACCuXvw.png" group-title="Kids TV", Nick Jr. Too
 https://m3u-editor.com/serve/tchtviptvplaylist/755441533
 #EXTINF: -1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="NickToons" tvg-logo="https://imgur.com/nDIzHnY.png" group-title="Kids TV", NickToons
@@ -531,10 +537,6 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441542
 https://m3u-editor.com/serve/tchtviptvplaylist/755441543
 #EXTINF: -1 tvg-id="ZOO.MOO.ph" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="Kids TV", ZooMoo
 https://m3u-editor.com/serve/tchtviptvplaylist/755441544
-#EXTINF: -1 tvg-id="EUROSPORT.ph" tvg-name="Eurosport" tvg-logo="https://imgur.com/lRlizur.png" group-title="Kids TV", Eurosport HD
-https://m3u-editor.com/serve/tchtviptvplaylist/757626212
-#EXTINF: -1 tvg-id="FIGHT.SPORTS.HD.sg" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/vG22bst.png" group-title="Kids TV", Fight Sports HD
-https://m3u-editor.com/serve/tchtviptvplaylist/757626213
 #EXTINF: -1 tvg-id="MYX.ph" tvg-name="MYX" tvg-chno="18" tvg-logo="https://i.imgur.com/VkYFPIe.png" group-title="Music TV", MYX
 https://m3u-editor.com/serve/tchtviptvplaylist/755441545
 #EXTINF: -1 tvg-id="MTV.Live.HD.uk" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="Music TV", MTV Live
@@ -585,10 +587,14 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441567
 https://m3u-editor.com/serve/tchtviptvplaylist/755441568
 #EXTINF: -1 tvg-id="EUROSPORT.ph" tvg-logo="https://i.imgur.com/IdyF5p0.png" group-title="Sports TV", Eurosport
 https://m3u-editor.com/serve/tchtviptvplaylist/755441569
+#EXTINF: -1 tvg-id="EUROSPORT.ph" tvg-name="Eurosport" tvg-logo="https://imgur.com/lRlizur.png" group-title="Sports TV", Eurosport HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626212
 #EXTINF: -1 tvg-id="eGG.Network.HD.my" tvg-logo="https://i.imgur.com/b67FhXB.png" group-title="Sports TV", eGG Network
 https://m3u-editor.com/serve/tchtviptvplaylist/755441570
 #EXTINF: -1 tvg-id="FIGHT.SPORTS.HD.sg" tvg-logo="https://imgur.com/UJaGoqV.png" group-title="Sports TV", Fight Sports
 https://m3u-editor.com/serve/tchtviptvplaylist/755441571
+#EXTINF: -1 tvg-id="FIGHT.SPORTS.HD.sg" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/vG22bst.png" group-title="Sports TV", Fight Sports HD
+https://m3u-editor.com/serve/tchtviptvplaylist/757626213
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Horse Racing" tvg-logo="https://i.imgur.com/gKdAuO0.png" group-title="Sports TV", Horse Racing
 https://m3u-editor.com/serve/tchtviptvplaylist/755441572
 #EXTINF: -1 tvg-id="NBA.TV.HD.sg" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Sports TV", NBA TV
