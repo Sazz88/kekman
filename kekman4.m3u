@@ -59,7 +59,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441307
 https://m3u-editor.com/serve/tchtviptvplaylist/755441308
 #EXTINF: -1 tvg-id="THRILL.ph" tvg-name="Thrill" tvg-chno="38" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="Local Movies", Thrill
 https://m3u-editor.com/serve/tchtviptvplaylist/755441309
-#EXTINF: -1 tvg-id="Tagalized.Movie.Channel.ph" tvg-name="Tagalized Movie Channel" tvg-chno="37" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Local Movies", TMC
+#EXTINF: -1 tvg-id="TAGALIZED.MOVIE.CHANNEL.ph" tvg-name="Tagalized Movie Channel" tvg-chno="37" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Local Movies", TMC
 https://m3u-editor.com/serve/tchtviptvplaylist/755441310
 #EXTINF: -1 tvg-id="Celestial.Movies.Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-chno="6" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Local Movies", Celestial Movies Pinoy
 https://m3u-editor.com/serve/tchtviptvplaylist/755441311
@@ -67,6 +67,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441311
 https://m3u-editor.com/serve/tchtviptvplaylist/755441312
 #EXTINF: -1 tvg-id="CINEMAX.HD.my" tvg-logo="https://i.imgur.com/r8qzNiy.png" group-title="Movies & Series", Cinemax
 https://m3u-editor.com/serve/tchtviptvplaylist/755441319
+#EXTINF: -1 tvg-id="Cinemax.ph" tvg-name="Cinemax" tvg-logo="https://imgur.com/boXoQd0.png" group-title="Movies & Series", Cinemax HD
+https://m3u-editor.com/serve/tchtviptvplaylist/759948979
 #EXTINF: -1 tvg-id="CINEMAWORLD.HD.sg" tvg-logo="https://i.imgur.com/WeOSYdz.png" group-title="Movies & Series", Cinema World
 https://m3u-editor.com/serve/tchtviptvplaylist/755441320
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/Eb0zJkO.png" group-title="Movies & Series", Fox Movies
@@ -83,15 +85,19 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441338
 https://m3u-editor.com/serve/tchtviptvplaylist/755441339
 #EXTINF: -1 tvg-id="HITS.HD.sg" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies & Series", Hits
 https://m3u-editor.com/serve/tchtviptvplaylist/755441342
+#EXTINF: -1 tvg-id="HITS.HD.sg" tvg-logo="https://imgur.com/OrBQRaI.png" group-title="Movies & Series", Hits HD
+https://m3u-editor.com/serve/tchtviptvplaylist/759948980
 #EXTINF: -1 tvg-id="HITS.MOVIES.HD.sg" tvg-logo="https://i.imgur.com/5FRdMCx.png" group-title="Movies & Series", HITS Movies
 https://m3u-editor.com/serve/tchtviptvplaylist/755441343
+#EXTINF: -1 tvg-id="HITS.MOVIES.HD.sg" tvg-name="Hits Movies" tvg-logo="https://imgur.com/HkAflVj.png" group-title="Movies & Series", Hits Movies HD
+https://m3u-editor.com/serve/tchtviptvplaylist/759948981
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Lotus Macau" tvg-logo="https://imgur.com/0ZZ2hCL.png" group-title="Movies & Series", Lotus Macau
 https://m3u-editor.com/serve/tchtviptvplaylist/755441344
-#EXTINF: -1 tvg-id="My.German.TV.(MYGTV).us" tvg-name="My Cinema Europe" tvg-logo="https://i.imgur.com/BJdJJYl.png" group-title="Movies & Series", My Cinema Europe
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="My Cinema Europe" tvg-logo="https://i.imgur.com/BJdJJYl.png" group-title="Movies & Series", My Cinema Europe
 https://m3u-editor.com/serve/tchtviptvplaylist/755441348
-#EXTINF: -1 tvg-id="TAP.MOVIES.HD.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies & Series", TAP Movies
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies & Series", TAP Movies
 https://m3u-editor.com/serve/tchtviptvplaylist/755441378
-#EXTINF: -1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="Movies & Series", TAP Action Flix
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="Movies & Series", TAP Action Flix
 https://m3u-editor.com/serve/tchtviptvplaylist/755441380
 #EXTINF: -1 tvg-id="AXN.HD.sg" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Movies & Series", AXN
 https://m3u-editor.com/serve/tchtviptvplaylist/755441315
@@ -99,6 +105,8 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441315
 https://m3u-editor.com/serve/tchtviptvplaylist/757623834
 #EXTINF: -1 tvg-id="Crime.+.Investigation.HD.sg" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Movies & Series", Crime + Investigation
 https://m3u-editor.com/serve/tchtviptvplaylist/755441324
+#EXTINF: -1 tvg-id="CRIME.&.INVESTIGATION.ph" tvg-logo="https://i.imgur.com/DIY4ZP9.png" group-title="Movies & Series", Crime + Investigation HD
+https://m3u-editor.com/serve/tchtviptvplaylist/759948978
 #EXTINF: -1 tvg-id="Paramount.Network.sg" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies & Series", Paramount Network
 https://m3u-editor.com/serve/tchtviptvplaylist/755441350
 #EXTINF: -1 tvg-id="Paramount.Network.sg" tvg-logo="https://i.imgur.com/Dxyw6Dl.png" group-title="Movies & Series", Paramount Network HD
@@ -437,7 +445,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441499
 https://m3u-editor.com/serve/tchtviptvplaylist/755441500
 #EXTINF: -1 tvg-id="Arirang.TV.HD.sg" tvg-logo="https://i.imgur.com/spsqFNP.png" group-title="Foreign Channels", Arirang TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441501
-#EXTINF: -1 tvg-id="France.24.(North.America.–.English).(F24)..ec" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Foreign Channels", France 24
+#EXTINF: -1 tvg-id="English.-.France.24.(French).hk" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Foreign Channels", France 24
 https://m3u-editor.com/serve/tchtviptvplaylist/755441502
 #EXTINF: -1 tvg-id="KIX.ng" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Foreign Channels", KIX
 https://m3u-editor.com/serve/tchtviptvplaylist/755441503
