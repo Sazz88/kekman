@@ -67,7 +67,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441311
 https://m3u-editor.com/serve/tchtviptvplaylist/755441312
 #EXTINF: -1 tvg-id="CINEMAX.HD.my" tvg-logo="https://i.imgur.com/r8qzNiy.png" group-title="Movies & Series", Cinemax
 https://m3u-editor.com/serve/tchtviptvplaylist/755441319
-#EXTINF: -1 tvg-id="Cinemax.ph" tvg-name="Cinemax" tvg-logo="https://imgur.com/boXoQd0.png" group-title="Movies & Series", Cinemax HD
+#EXTINF: -1 tvg-id="Cinemax.hd.ph" tvg-name="Cinemax" tvg-logo="https://imgur.com/boXoQd0.png" group-title="Movies & Series", Cinemax HD
 https://m3u-editor.com/serve/tchtviptvplaylist/759948979
 #EXTINF: -1 tvg-id="CINEMAWORLD.HD.sg" tvg-logo="https://i.imgur.com/WeOSYdz.png" group-title="Movies & Series", Cinema World
 https://m3u-editor.com/serve/tchtviptvplaylist/755441320
