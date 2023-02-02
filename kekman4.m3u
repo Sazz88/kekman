@@ -23,15 +23,15 @@ https://m3u-editor.com/serve/tchtviptvplaylist/755441288
 https://m3u-editor.com/serve/tchtviptvplaylist/755441289
 #EXTINF: -1 tvg-id="CNN.Philippines.ph" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Local TV", CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/755441290
-#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Cine Cebu Television Network, Inc." tvg-logo="https://imgur.com/vdEpkTs.png" group-title="Local TV", CCTN 47
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="Cine Cebu Television Network, Inc." tvg-logo="https://imgur.com/vdEpkTs.png" group-title="Local TV", CCTN 47
 https://m3u-editor.com/serve/tchtviptvplaylist/755441291
-#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Radyo Bandilyo" tvg-logo="https://imgur.com/qKH1TSG.png" group-title="Local TV", DYWC Teleradyo
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="Radyo Bandilyo" tvg-logo="https://imgur.com/qKH1TSG.png" group-title="Local TV", DYWC Teleradyo
 https://m3u-editor.com/serve/tchtviptvplaylist/755441292
 #EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-name="Jeepney TV" tvg-chno="14" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local TV", Jeepney TV
 https://m3u-editor.com/serve/tchtviptvplaylist/755441293
-#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="Net 25" tvg-chno="19" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV", NET 25
 https://m3u-editor.com/serve/tchtviptvplaylist/755441295
-#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/ov72aSx.png" group-title="Local TV", TV Maria
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/ov72aSx.png" group-title="Local TV", TV Maria
 https://m3u-editor.com/serve/tchtviptvplaylist/755441296
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="PIE Channel" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/PIE_TV.png" group-title="Local TV", PIE Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/755441297
