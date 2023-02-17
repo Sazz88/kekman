@@ -37,16 +37,16 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388355
 https://m3u-editor.com/serve/tchtviptvplaylist/767388356
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="BuKo" tvg-chno="4" tvg-logo="https://i.imgur.com/D5AaLfO.png" group-title="TCHTV | Local TV", • 📺 BuKo Channel
 https://m3u-editor.com/serve/tchtviptvplaylist/767388357
+#EXTINF: -1 tvg-id="Local.Programming.us" tvg-name="ALLTV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="TCHTV | Local TV", • 🔄 ALLTV
+https://m3u-editor.com/serve/tchtviptvplaylist/767388359
+#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Kapamilya Online Live" tvg-logo="https://i.imgur.com/8YT2rMz.png" group-title="TCHTV | Local TV", • 📺 Kapamilya Online Live
+https://m3u-editor.com/serve/tchtviptvplaylist/767388362
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/35TrDh4.png" group-title="TCHTV | Local TV", • ❌ Beam TV
 https://m3u-editor.com/serve/tchtviptvplaylist/767388358
-#EXTINF: -1 tvg-id="Local.Programming.us" tvg-name="ALLTV" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="TCHTV | Local TV", • ❌ ALLTV
-https://m3u-editor.com/serve/tchtviptvplaylist/767388359
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="RJTV" tvg-logo="https://i.imgur.com/iAE0WKr.png" group-title="TCHTV | Local TV", • ❌ RJTV
 https://m3u-editor.com/serve/tchtviptvplaylist/767388360
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Pep TV" tvg-logo="https://i.imgur.com/FZtnTL2.png" group-title="TCHTV | Local TV", • ❌ Pep TV
 https://m3u-editor.com/serve/tchtviptvplaylist/767388361
-#EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Kapamilya Online Live" tvg-logo="https://i.imgur.com/8YT2rMz.png" group-title="TCHTV | Local TV", • 📺 Kapamilya Online Live
-https://m3u-editor.com/serve/tchtviptvplaylist/767388362
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-chno="1" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="TCHTV | Local Movies", • 🔄 Cinema One
 https://m3u-editor.com/serve/tchtviptvplaylist/767388363
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-name="Cine Mo!" tvg-chno="2" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="TCHTV | Local Movies", • 🔄 Cine Mo!
@@ -97,7 +97,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388385
 https://m3u-editor.com/serve/tchtviptvplaylist/767388386
 #EXTINF: -1 tvg-id="TAP.MOVIES.HD.ph" tvg-name="TAP Movies" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="TCHTV | Movies & Series", • 🔄 TAP Movies
 https://m3u-editor.com/serve/tchtviptvplaylist/767388387
-#EXTINF: -1 tvg-id="TapAction.Flix.HD.ph" tvg-name="TAP Action Flix" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="TCHTV | Movies & Series", • 📺 TAP Action Flix
+#EXTINF: -1 tvg-id="TapAction.Flix.HD.ph" tvg-name="TAP Action Flix" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="TCHTV | Movies & Series", • 🔄 TAP Action Flix
 https://m3u-editor.com/serve/tchtviptvplaylist/767388388
 #EXTINF: -1 tvg-id="AXN.ph" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="TCHTV | Movies & Series", • 🔄 AXN
 https://m3u-editor.com/serve/tchtviptvplaylist/767388389
@@ -109,7 +109,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388391
 https://m3u-editor.com/serve/tchtviptvplaylist/767388392
 #EXTINF: -1 tvg-id="Paramount.Network.my" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="TCHTV | Movies & Series", • 📺 Paramount Network
 https://m3u-editor.com/serve/tchtviptvplaylist/767388393
-#EXTINF: -1 tvg-id="Paramount.Network.my" tvg-name="Paramount Network HD" tvg-logo="https://i.imgur.com/Dxyw6Dl.png" group-title="TCHTV | Movies & Series", • 📺 Paramount Network HD
+#EXTINF: -1 tvg-id="Paramount.Network.my" tvg-name="Paramount Network HD" tvg-logo="https://i.imgur.com/Dxyw6Dl.png" group-title="TCHTV | Movies & Series", • 🔄 hParamount Network HD
 https://m3u-editor.com/serve/tchtviptvplaylist/767388394
 #EXTINF: -1 tvg-id="ROCK.ENTERTAINMENT.ph" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="TCHTV | Movies & Series", • 🔄 Rock Entertainment
 https://m3u-editor.com/serve/tchtviptvplaylist/767388395
@@ -119,7 +119,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388396
 https://m3u-editor.com/serve/tchtviptvplaylist/767388397
 #EXTINF: -1 tvg-id="WARNER.TV.ph" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/33QyRzo.png" group-title="TCHTV | Movies & Series", • 🔄 Warner TV
 https://m3u-editor.com/serve/tchtviptvplaylist/767388398
-#EXTINF: -1 tvg-id="WarnerTV.HD.sg" tvg-name="Warner TV HD" tvg-logo="https://imgur.com/or5YIIl.png" group-title="TCHTV | Movies & Series", • 🔄 Warner TV HD
+#EXTINF: -1 tvg-id="WarnerTV.HD.sg" tvg-name="Warner TV HD" tvg-logo="https://imgur.com/or5YIIl.png" group-title="TCHTV | Movies & Series", • 📺 Warner TV HD
 https://m3u-editor.com/serve/tchtviptvplaylist/767388399
 #EXTINF: -1 tvg-id="And.flix.HD.in" tvg-name="&flix HD" tvg-logo="https://i.imgur.com/3BU6Wsg.png" group-title="TCHTV | Movies & Series", • 📺 &flix HD
 https://m3u-editor.com/serve/tchtviptvplaylist/767388400
@@ -457,7 +457,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388565
 https://m3u-editor.com/serve/tchtviptvplaylist/767388566
 #EXTINF: -1 tvg-id="KIX.ph" tvg-name="KIX" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="TCHTV | Foreign Channels", • 🔄 KIX
 https://m3u-editor.com/serve/tchtviptvplaylist/767388567
-#EXTINF: -1 tvg-id="K-PLUS.ph" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-title="TCHTV | Foreign Channels", • 📺 K+
+#EXTINF: -1 tvg-id="K-PLUS.ph" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-title="TCHTV | Foreign Channels", • 🔄 K+
 https://m3u-editor.com/serve/tchtviptvplaylist/767388568
 #EXTINF: -1 tvg-id="KBS.World.HD.sg" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="TCHTV | Foreign Channels", • 🔄 KBS World
 https://m3u-editor.com/serve/tchtviptvplaylist/767388569
@@ -617,7 +617,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388645
 https://m3u-editor.com/serve/tchtviptvplaylist/767388646
 #EXTINF: -1 tvg-id="24.7.Dummy.us" tvg-name="Pinoy Xtreme" tvg-chno="27" tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="TCHTV | Sports TV", • 🔄 Pinoy Xtreme
 https://m3u-editor.com/serve/tchtviptvplaylist/767388647
-#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="PBA Rush" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="TCHTV | Sports TV", • 📺 PBA Rush
+#EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-name="PBA Rush" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="TCHTV | Sports TV", • 🔄 PBA Rush
 https://m3u-editor.com/serve/tchtviptvplaylist/767388648
 #EXTINF: -1 tvg-id="SPOTV.sg" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="TCHTV | Sports TV", • 📺 SPOTV
 https://m3u-editor.com/serve/tchtviptvplaylist/767388649
